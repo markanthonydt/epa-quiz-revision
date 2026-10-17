@@ -1,0 +1,2797 @@
+[
+    {
+        "id":  "glossary-001",
+        "topic":  "The Organisation",
+        "term":  "Branding",
+        "definition":  "The process of creating a unique name, design, and image for a product or business in the consumers\u0027 mind, primarily through advertising campaigns with a consistent theme.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  4
+                   }
+    },
+    {
+        "id":  "glossary-002",
+        "topic":  "The Organisation",
+        "term":  "Business Sectors",
+        "definition":  "Categories of businesses based on the primary activities they engage in, such as agriculture, manufacturing, services, and technology.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  5
+                   }
+    },
+    {
+        "id":  "glossary-003",
+        "topic":  "The Organisation",
+        "term":  "Business Types",
+        "definition":  "Different forms of business organisations, such as sole traders, partnerships, limited companies, and cooperatives.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  6
+                   }
+    },
+    {
+        "id":  "glossary-004",
+        "topic":  "The Organisation",
+        "term":  "Code of Conduct",
+        "definition":  "A set of guidelines designed to set out acceptable behaviours for members of a particular group, association, or organisation.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  7
+                   }
+    },
+    {
+        "id":  "glossary-005",
+        "topic":  "The Organisation",
+        "term":  "Corporate Culture",
+        "definition":  "The beliefs, behaviours, and values that determine how a company\u0027s employees and management interact and handle business transactions.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  8
+                   }
+    },
+    {
+        "id":  "glossary-006",
+        "topic":  "The Organisation",
+        "term":  "Corporate Social Responsibility (CSR)",
+        "definition":  "A business model in which companies integrate social and environmental concerns in their business operations and interactions with stakeholders.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  9
+                   }
+    },
+    {
+        "id":  "glossary-007",
+        "topic":  "The Organisation",
+        "term":  "Decentralisation",
+        "definition":  "The distribution of decision-making power to lower levels within an organisation, away from a central authority.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  10
+                   }
+    },
+    {
+        "id":  "glossary-008",
+        "topic":  "The Organisation",
+        "term":  "Delegation",
+        "definition":  "The assignment of responsibility or tasks from a manager to a subordinate.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  11
+                   }
+    },
+    {
+        "id":  "glossary-009",
+        "topic":  "The Organisation",
+        "term":  "Departmentalisation",
+        "definition":  "The process of dividing an organisation into different departments, which perform specific tasks or functions.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  12
+                   }
+    },
+    {
+        "id":  "glossary-010",
+        "topic":  "The Organisation",
+        "term":  "Entrepreneurship",
+        "definition":  "The process of designing, launching, and running a new business, typically characterised by innovation and risk-taking.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  13
+                   }
+    },
+    {
+        "id":  "glossary-011",
+        "topic":  "The Organisation",
+        "term":  "Ethics",
+        "definition":  "The principles of right and wrong that guide an individual in making decisions in a business context.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  14
+                   }
+    },
+    {
+        "id":  "glossary-012",
+        "topic":  "The Organisation",
+        "term":  "Flat Organisational Structure",
+        "definition":  "An organisational structure with few or no levels of middle management between staff and executives.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  15
+                   }
+    },
+    {
+        "id":  "glossary-013",
+        "topic":  "The Organisation",
+        "term":  "Globalisation",
+        "definition":  "The process by which businesses develop international influence or start operating on an international scale.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  16
+                   }
+    },
+    {
+        "id":  "glossary-014",
+        "topic":  "The Organisation",
+        "term":  "Hierarchy",
+        "definition":  "A system in which members of an organisation or society are ranked according to relative status or authority.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  17
+                   }
+    },
+    {
+        "id":  "glossary-015",
+        "topic":  "The Organisation",
+        "term":  "Human Resources (HR)",
+        "definition":  "The division of a business that is charged with finding, screening, recruiting, and training job applicants, as well as administering employee-benefit programmes.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  18
+                   }
+    },
+    {
+        "id":  "glossary-016",
+        "topic":  "The Organisation",
+        "term":  "Incorporation",
+        "definition":  "The process of legally declaring a corporate entity as separate from its owners.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  19
+                   }
+    },
+    {
+        "id":  "glossary-017",
+        "topic":  "The Organisation",
+        "term":  "Informal Organisation",
+        "definition":  "The network of personal and social relations that develop spontaneously between people within an organisation.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  20
+                   }
+    },
+    {
+        "id":  "glossary-018",
+        "topic":  "The Organisation",
+        "term":  "Joint Venture",
+        "definition":  "A business arrangement in which two or more parties agree to pool their resources for the purpose of accomplishing a specific task.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  21
+                   }
+    },
+    {
+        "id":  "glossary-019",
+        "topic":  "The Organisation",
+        "term":  "Leadership",
+        "definition":  "The action of leading a group of people or an organisation, or the ability to do this.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  22
+                   }
+    },
+    {
+        "id":  "glossary-020",
+        "topic":  "The Organisation",
+        "term":  "Line Management",
+        "definition":  "The management of employees who are involved in the production or delivery of products, directly responsible for achieving organisational goals.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  23
+                   }
+    },
+    {
+        "id":  "glossary-021",
+        "topic":  "The Organisation",
+        "term":  "Matrix Structure",
+        "definition":  "An organisational structure that shares power among two or more dimensions, such as functional and project management.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  24
+                   }
+    },
+    {
+        "id":  "glossary-022",
+        "topic":  "The Organisation",
+        "term":  "Mission Statement",
+        "definition":  "A short statement of an organisation\u0027s purpose, identifying the scope of its operations and the kinds of products or services it provides.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  25
+                   }
+    },
+    {
+        "id":  "glossary-023",
+        "topic":  "The Organisation",
+        "term":  "Multinational Corporation",
+        "definition":  "A corporate organisation that owns or controls production of goods or services in at least one country other than its home country.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  26
+                   }
+    },
+    {
+        "id":  "glossary-024",
+        "topic":  "The Organisation",
+        "term":  "Organisational Chart",
+        "definition":  "A diagram that visually conveys a company\u0027s internal structure by detailing the roles, responsibilities, and relationships between individuals within an entity.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  27
+                   }
+    },
+    {
+        "id":  "glossary-025",
+        "topic":  "The Organisation",
+        "term":  "Organisational Structure",
+        "definition":  "The way in which the interrelated groups within an organisation are arranged to achieve its objectives.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  28
+                   }
+    },
+    {
+        "id":  "glossary-026",
+        "topic":  "The Organisation",
+        "term":  "Outsourcing",
+        "definition":  "The business practice of hiring a party outside a company to perform services and create goods that traditionally were performed in-house by the company\u0027s own employees and staff.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  29
+                   }
+    },
+    {
+        "id":  "glossary-027",
+        "topic":  "The Organisation",
+        "term":  "Partnership",
+        "definition":  "A legal form of business operation between two or more individuals who share management and profits.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  30
+                   }
+    },
+    {
+        "id":  "glossary-028",
+        "topic":  "The Organisation",
+        "term":  "Performance Appraisal",
+        "definition":  "A regular review of an employee\u0027s job performance and overall contribution to a company.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  31
+                   }
+    },
+    {
+        "id":  "glossary-029",
+        "topic":  "The Organisation",
+        "term":  "Private Limited Company (Ltd)",
+        "definition":  "A UK private company limited by shares cannot offer its shares to the public. Shareholder liability is generally limited to any amount unpaid on their shares. There is no fixed maximum number of shareholders.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  32
+                   },
+        "review":  {
+                       "reference":  "https://www.gov.uk/limited-company-formation/shareholders"
+                   }
+    },
+    {
+        "id":  "glossary-030",
+        "topic":  "The Organisation",
+        "term":  "Public Limited Company (PLC)",
+        "definition":  "A UK public limited company (PLC) can offer shares to the public. It may be listed on a stock exchange, but not every PLC is listed.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  33
+                   },
+        "review":  {
+                       "reference":  "https://www.gov.uk/guidance/employee-shareholders"
+                   }
+    },
+    {
+        "id":  "glossary-031",
+        "topic":  "The Organisation",
+        "term":  "Small and Medium-sized Enterprises (SMEs)",
+        "definition":  "Businesses whose personnel numbers fall below certain limits. In the EU, SMEs are defined as having fewer than 250 employees.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  34
+                   }
+    },
+    {
+        "id":  "glossary-032",
+        "topic":  "The Organisation",
+        "term":  "Sole Trader",
+        "definition":  "A business entity owned and run by one individual, with no distinction between the business and the owner.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  35
+                   }
+    },
+    {
+        "id":  "glossary-033",
+        "topic":  "The Organisation",
+        "term":  "Stakeholders",
+        "definition":  "Individuals or groups that have an interest in the success and progression of a company, including employees, customers, suppliers, and investors.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  36
+                   }
+    },
+    {
+        "id":  "glossary-034",
+        "topic":  "The Organisation",
+        "term":  "Subsidiary",
+        "definition":  "A company controlled by another company, commonly referred to as the parent company or holding company.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  37
+                   }
+    },
+    {
+        "id":  "glossary-035",
+        "topic":  "The Organisation",
+        "term":  "Supply Chain",
+        "definition":  "The sequence of processes involved in the production and distribution of a commodity.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  38
+                   }
+    },
+    {
+        "id":  "glossary-036",
+        "topic":  "The Organisation",
+        "term":  "Tall Organisational Structure",
+        "definition":  "An organisational structure in which the hierarchy has many levels relative to the size of the organisation.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  39
+                   }
+    },
+    {
+        "id":  "glossary-037",
+        "topic":  "The Organisation",
+        "term":  "Teamwork",
+        "definition":  "The combined action of a group, especially when effective and efficient.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  40
+                   }
+    },
+    {
+        "id":  "glossary-038",
+        "topic":  "The Organisation",
+        "term":  "Vision Statement",
+        "definition":  "An aspirational description of what an organisation would like to achieve or accomplish in the mid-term or long-term future.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  41
+                   }
+    },
+    {
+        "id":  "glossary-039",
+        "topic":  "Business Fundamentals",
+        "term":  "Accounts Payable",
+        "definition":  "The amount of money a company owes to suppliers for items or services purchased on credit.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  44
+                   }
+    },
+    {
+        "id":  "glossary-040",
+        "topic":  "Business Fundamentals",
+        "term":  "Accounts Receivable",
+        "definition":  "The amount of money owed to a company by its customers for goods or services delivered on credit.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  45
+                   }
+    },
+    {
+        "id":  "glossary-041",
+        "topic":  "Business Fundamentals",
+        "term":  "Assets",
+        "definition":  "Resources owned by a business that are expected to provide future economic benefits.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  46
+                   }
+    },
+    {
+        "id":  "glossary-042",
+        "topic":  "Business Fundamentals",
+        "term":  "Balance Sheet",
+        "definition":  "A financial statement that summarises a company\u0027s assets, liabilities, and shareholders\u0027 equity at a specific point in time.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  47
+                   }
+    },
+    {
+        "id":  "glossary-043",
+        "topic":  "Business Fundamentals",
+        "term":  "Benchmarking",
+        "definition":  "The process of comparing a company\u0027s performance with industry standards or best practices from other companies.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  48
+                   }
+    },
+    {
+        "id":  "glossary-044",
+        "topic":  "Business Fundamentals",
+        "term":  "Break-even Point",
+        "definition":  "The level of sales at which total revenues equal total costs, resulting in neither profit nor loss.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  49
+                   }
+    },
+    {
+        "id":  "glossary-045",
+        "topic":  "Business Fundamentals",
+        "term":  "Budget",
+        "definition":  "A financial plan that estimates income and expenditure over a specified period of time.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  50
+                   }
+    },
+    {
+        "id":  "glossary-046",
+        "topic":  "Business Fundamentals",
+        "term":  "Business Improvement",
+        "definition":  "Strategies and activities aimed at enhancing the efficiency, effectiveness, and overall performance of a business.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  51
+                   }
+    },
+    {
+        "id":  "glossary-047",
+        "topic":  "Business Fundamentals",
+        "term":  "Capital",
+        "definition":  "Funds or other financial assets available for investment in business operations.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  52
+                   }
+    },
+    {
+        "id":  "glossary-048",
+        "topic":  "Business Fundamentals",
+        "term":  "Cash Flow",
+        "definition":  "The movement of money into and out of a business, affecting its liquidity.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  53
+                   }
+    },
+    {
+        "id":  "glossary-049",
+        "topic":  "Business Fundamentals",
+        "term":  "Competitor Analysis",
+        "definition":  "The process of assessing and understanding the strengths and weaknesses of current and potential competitors.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  54
+                   }
+    },
+    {
+        "id":  "glossary-050",
+        "topic":  "Business Fundamentals",
+        "term":  "Corporate Culture",
+        "definition":  "The shared values, beliefs, and practices that shape the behaviours and attitudes of employees within an organisation.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  55
+                   }
+    },
+    {
+        "id":  "glossary-051",
+        "topic":  "Business Fundamentals",
+        "term":  "Cost of Goods Sold (COGS)",
+        "definition":  "The direct costs attributable to the production of the goods sold by a company.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  56
+                   }
+    },
+    {
+        "id":  "glossary-052",
+        "topic":  "Business Fundamentals",
+        "term":  "Customer Relationship Management (CRM)",
+        "definition":  "Strategies and technologies used by companies to manage and analyse customer interactions and data throughout the customer lifecycle.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  57
+                   }
+    },
+    {
+        "id":  "glossary-053",
+        "topic":  "Business Fundamentals",
+        "term":  "Depreciation",
+        "definition":  "The allocation of the cost of a tangible asset over its useful life.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  58
+                   }
+    },
+    {
+        "id":  "glossary-054",
+        "topic":  "Business Fundamentals",
+        "term":  "Dividends",
+        "definition":  "Payments made by a corporation to its shareholders, usually as a distribution of profits.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  59
+                   }
+    },
+    {
+        "id":  "glossary-055",
+        "topic":  "Business Fundamentals",
+        "term":  "Employee Engagement",
+        "definition":  "The emotional commitment and involvement an employee has towards their organisation and its goals.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  60
+                   }
+    },
+    {
+        "id":  "glossary-056",
+        "topic":  "Business Fundamentals",
+        "term":  "Equity",
+        "definition":  "The residual interest in an organisation\u0027s assets after deducting its liabilities; in simple terms, assets minus liabilities.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  61
+                   },
+        "review":  {
+                       "reference":  "https://www.ifrs.org/content/dam/ifrs/publications/pdf-standards/english/2026/issued/part-a/conceptual-framework-for-financial-reporting.pdf?bypass=on"
+                   }
+    },
+    {
+        "id":  "glossary-057",
+        "topic":  "Business Fundamentals",
+        "term":  "Financial Statements",
+        "definition":  "Reports that summarise the financial performance and position of a business, including the balance sheet, income statement, and cash flow statement.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  62
+                   }
+    },
+    {
+        "id":  "glossary-058",
+        "topic":  "Business Fundamentals",
+        "term":  "Fixed Costs",
+        "definition":  "Business expenses that remain constant regardless of the level of production or sales.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  63
+                   }
+    },
+    {
+        "id":  "glossary-059",
+        "topic":  "Business Fundamentals",
+        "term":  "Forecasting",
+        "definition":  "The process of making predictions about future business performance based on historical data and analysis.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  64
+                   }
+    },
+    {
+        "id":  "glossary-060",
+        "topic":  "Business Fundamentals",
+        "term":  "Gross Profit",
+        "definition":  "Total revenue minus the cost of goods sold (COGS).",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  65
+                   }
+    },
+    {
+        "id":  "glossary-061",
+        "topic":  "Business Fundamentals",
+        "term":  "Human Resources (HR)",
+        "definition":  "The department within an organisation responsible for managing employee relations, recruitment, training, and development.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  66
+                   }
+    },
+    {
+        "id":  "glossary-062",
+        "topic":  "Business Fundamentals",
+        "term":  "Income Statement",
+        "definition":  "A financial statement that shows a company\u0027s revenue and expenses over a specific period, resulting in net profit or loss.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  67
+                   }
+    },
+    {
+        "id":  "glossary-063",
+        "topic":  "Business Fundamentals",
+        "term":  "Inventory",
+        "definition":  "The goods and materials a business holds for the purpose of resale or production.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  68
+                   }
+    },
+    {
+        "id":  "glossary-064",
+        "topic":  "Business Fundamentals",
+        "term":  "Key Performance Indicators (KPIs)",
+        "definition":  "Metrics used to evaluate the success of an organisation or of a particular activity in which it engages.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  69
+                   }
+    },
+    {
+        "id":  "glossary-065",
+        "topic":  "Business Fundamentals",
+        "term":  "Liabilities",
+        "definition":  "Obligations that a company owes to outside parties, such as loans, accounts payable, or mortgages.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  70
+                   }
+    },
+    {
+        "id":  "glossary-066",
+        "topic":  "Business Fundamentals",
+        "term":  "Liquidity",
+        "definition":  "The ability of a company to meet its short-term financial obligations.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  71
+                   }
+    },
+    {
+        "id":  "glossary-067",
+        "topic":  "Business Fundamentals",
+        "term":  "Market Research",
+        "definition":  "The process of gathering, analysing, and interpreting information about a market, including information about potential customers and competitors.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  72
+                   }
+    },
+    {
+        "id":  "glossary-068",
+        "topic":  "Business Fundamentals",
+        "term":  "Net Profit",
+        "definition":  "The amount of money left after all expenses, including taxes and interest, have been deducted from total revenue.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  73
+                   }
+    },
+    {
+        "id":  "glossary-069",
+        "topic":  "Business Fundamentals",
+        "term":  "Operational Efficiency",
+        "definition":  "The capability of a business to deliver products or services to customers in the most cost-effective manner without sacrificing quality.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  74
+                   }
+    },
+    {
+        "id":  "glossary-070",
+        "topic":  "Business Fundamentals",
+        "term":  "Organisational Structure",
+        "definition":  "The system used to define a hierarchy within an organisation, outlining roles, responsibilities, and relationships between individuals.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  75
+                   }
+    },
+    {
+        "id":  "glossary-071",
+        "topic":  "Business Fundamentals",
+        "term":  "Overheads",
+        "definition":  "Ongoing business expenses that are not directly attributed to creating a product or service.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  76
+                   }
+    },
+    {
+        "id":  "glossary-072",
+        "topic":  "Business Fundamentals",
+        "term":  "Procurement",
+        "definition":  "Procurement is the process of acquiring goods, services, or works from external sources. It involves several steps, including identifying needs, selecting suppliers, negotiating contracts, and managing the delivery and payment for the goods or services. The goal of procurement is to ensure that an organisation obtains the necessary resources in a cost-effective and efficient manner.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  77
+                   }
+    },
+    {
+        "id":  "glossary-073",
+        "topic":  "Business Fundamentals",
+        "term":  "Return on Investment (ROI)",
+        "definition":  "A measure used to evaluate the efficiency or profitability of an investment, calculated as the benefit (or return) divided by the cost of the investment.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  78
+                   }
+    },
+    {
+        "id":  "glossary-074",
+        "topic":  "Business Fundamentals",
+        "term":  "Revenue",
+        "definition":  "Income generated from normal business operations, typically from the sale of goods and services to customers.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  79
+                   }
+    },
+    {
+        "id":  "glossary-075",
+        "topic":  "Business Fundamentals",
+        "term":  "Shareholders",
+        "definition":  "Individuals or entities that own shares in a corporation, giving them partial ownership of the company.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  80
+                   }
+    },
+    {
+        "id":  "glossary-076",
+        "topic":  "Business Fundamentals",
+        "term":  "Stakeholders",
+        "definition":  "All parties that have an interest in a company, including employees, customers, suppliers, and shareholders.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  81
+                   }
+    },
+    {
+        "id":  "glossary-077",
+        "topic":  "Business Fundamentals",
+        "term":  "SWOT Analysis",
+        "definition":  "A strategic planning tool used to identify the Strengths, Weaknesses, Opportunities, and Threats related to a business or project.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  82
+                   }
+    },
+    {
+        "id":  "glossary-078",
+        "topic":  "Business Fundamentals",
+        "term":  "Variable Costs",
+        "definition":  "Costs that vary in direct proportion to the level of production or sales.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  83
+                   }
+    },
+    {
+        "id":  "glossary-079",
+        "topic":  "Business Fundamentals",
+        "term":  "Working Capital",
+        "definition":  "The difference between a company’s current assets and current liabilities, indicating the liquidity of the business.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  84
+                   }
+    },
+    {
+        "id":  "glossary-080",
+        "topic":  "Change Management",
+        "term":  "Action Research Model",
+        "definition":  "A cyclical process of change involving data collection, feedback, action planning, and evaluation.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  88
+                   }
+    },
+    {
+        "id":  "glossary-081",
+        "topic":  "Change Management",
+        "term":  "Adaptive Change",
+        "definition":  "Change that is incremental and allows organisations to evolve over time.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  89
+                   }
+    },
+    {
+        "id":  "glossary-082",
+        "topic":  "Change Management",
+        "term":  "Change Agent/Leader",
+        "definition":  "An individual or group responsible for initiating and managing change within an organisation.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  90
+                   }
+    },
+    {
+        "id":  "glossary-083",
+        "topic":  "Change Management",
+        "term":  "Change Management",
+        "definition":  "The process, tools, and techniques used to manage the people side of change to achieve the required business outcome.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  91
+                   }
+    },
+    {
+        "id":  "glossary-084",
+        "topic":  "Change Management",
+        "term":  "Change Readiness",
+        "definition":  "The extent to which an organisation is prepared to undergo change.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  92
+                   }
+    },
+    {
+        "id":  "glossary-085",
+        "topic":  "Change Management",
+        "term":  "Communication Plan",
+        "definition":  "A strategy to communicate change effectively to all stakeholders.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  93
+                   }
+    },
+    {
+        "id":  "glossary-086",
+        "topic":  "Change Management",
+        "term":  "Continuous Change",
+        "definition":  "Ongoing change aimed at improving processes and outcomes over time.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  94
+                   }
+    },
+    {
+        "id":  "glossary-087",
+        "topic":  "Change Management",
+        "term":  "Driving Forces",
+        "definition":  "Factors that push an organisation towards change.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  95
+                   }
+    },
+    {
+        "id":  "glossary-088",
+        "topic":  "Change Management",
+        "term":  "Force Field Analysis",
+        "definition":  "A method for analysing the forces for and against a change.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  96
+                   }
+    },
+    {
+        "id":  "glossary-089",
+        "topic":  "Change Management",
+        "term":  "Incremental Change",
+        "definition":  "Small, gradual changes that are implemented over time.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  97
+                   }
+    },
+    {
+        "id":  "glossary-090",
+        "topic":  "Change Management",
+        "term":  "Kotter\u0027s 8-Step Model",
+        "definition":  "A process for leading change that includes steps like creating urgency and building a guiding coalition.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  98
+                   }
+    },
+    {
+        "id":  "glossary-091",
+        "topic":  "Change Management",
+        "term":  "Kübler-Ross Change Curve",
+        "definition":  "A model that describes the emotional stages people go through when experiencing change.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  99
+                   }
+    },
+    {
+        "id":  "glossary-092",
+        "topic":  "Change Management",
+        "term":  "Lewin\u0027s Change Management Model",
+        "definition":  "A three-stage model of change involving unfreezing, changing, and refreezing.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  100
+                   }
+    },
+    {
+        "id":  "glossary-093",
+        "topic":  "Change Management",
+        "term":  "Participative Change",
+        "definition":  "Change that involves input and collaboration from employees at all levels.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  101
+                   }
+    },
+    {
+        "id":  "glossary-094",
+        "topic":  "Change Management",
+        "term":  "Planned Change",
+        "definition":  "Change that is intentional and goal oriented.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  102
+                   }
+    },
+    {
+        "id":  "glossary-095",
+        "topic":  "Change Management",
+        "term":  "Process Change",
+        "definition":  "Changes made to improve the efficiency or effectiveness of processes within an organisation.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  103
+                   }
+    },
+    {
+        "id":  "glossary-096",
+        "topic":  "Change Management",
+        "term":  "Project Management",
+        "definition":  "The discipline of planning, organising, and managing resources to achieve specific goals.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  104
+                   }
+    },
+    {
+        "id":  "glossary-097",
+        "topic":  "Change Management",
+        "term":  "Resistance to Change",
+        "definition":  "Opposition or pushback from individuals or groups when they perceive that a change is a threat.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  105
+                   }
+    },
+    {
+        "id":  "glossary-098",
+        "topic":  "Change Management",
+        "term":  "Restructuring",
+        "definition":  "The act of reorganising the structure of an organisation to improve efficiency and effectiveness.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  106
+                   }
+    },
+    {
+        "id":  "glossary-099",
+        "topic":  "Change Management",
+        "term":  "Revolutionary Change",
+        "definition":  "Radical, transformative change that significantly alters the way an organisation operates.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  107
+                   }
+    },
+    {
+        "id":  "glossary-100",
+        "topic":  "Change Management",
+        "term":  "Stakeholder Analysis",
+        "definition":  "The process of identifying and assessing the influence and importance of key people, groups, or organisations that may significantly impact the change process.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  108
+                   }
+    },
+    {
+        "id":  "glossary-101",
+        "topic":  "Change Management",
+        "term":  "Strategic Change",
+        "definition":  "Change that is aligned with the long-term goals and objectives of an organisation.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  109
+                   }
+    },
+    {
+        "id":  "glossary-102",
+        "topic":  "Change Management",
+        "term":  "Structural Change",
+        "definition":  "Change that involves altering the organisational structure, including its hierarchy, roles, and responsibilities.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  110
+                   }
+    },
+    {
+        "id":  "glossary-103",
+        "topic":  "Change Management",
+        "term":  "SWOT Analysis",
+        "definition":  "A strategic planning tool used to identify strengths, weaknesses, opportunities, and threats.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  111
+                   }
+    },
+    {
+        "id":  "glossary-104",
+        "topic":  "Change Management",
+        "term":  "Systems Thinking",
+        "definition":  "A holistic approach to analysis that focuses on the way that a system\u0027s constituent parts interrelate and how systems work over time and within the context of larger systems.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  112
+                   }
+    },
+    {
+        "id":  "glossary-105",
+        "topic":  "Change Management",
+        "term":  "Tactical Change",
+        "definition":  "Change that is focused on short-term objectives and specific tasks.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  113
+                   }
+    },
+    {
+        "id":  "glossary-106",
+        "topic":  "Change Management",
+        "term":  "Three Types of Change Management",
+        "definition":  "Adaptive, transformational, and corrective changes used to guide organisational evolution.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  114
+                   }
+    },
+    {
+        "id":  "glossary-107",
+        "topic":  "Change Management",
+        "term":  "Total Quality Management (TQM)",
+        "definition":  "A management approach to long-term success through customer satisfaction, focusing on continuous improvement of processes.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  115
+                   }
+    },
+    {
+        "id":  "glossary-108",
+        "topic":  "Change Management",
+        "term":  "Transformational Change",
+        "definition":  "Change that fundamentally redefines the organisation\u0027s culture, underlying assumptions, and ways of working.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  116
+                   }
+    },
+    {
+        "id":  "glossary-109",
+        "topic":  "Change Management",
+        "term":  "Transitions Model",
+        "definition":  "A model that focuses on the psychological transitions people go through during change, including endings, the neutral zone, and new beginnings.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  117
+                   }
+    },
+    {
+        "id":  "glossary-110",
+        "topic":  "Change Management",
+        "term":  "Transitional Change",
+        "definition":  "Change that seeks to achieve a known desired state that is different from the existing one.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  118
+                   }
+    },
+    {
+        "id":  "glossary-111",
+        "topic":  "Change Management",
+        "term":  "Tuckman\u0027s Stages of Group Development",
+        "definition":  "A model describing the stages of forming, storming, norming, performing, and adjourning that teams go through.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  119
+                   }
+    },
+    {
+        "id":  "glossary-112",
+        "topic":  "Change Management",
+        "term":  "Unfreezing",
+        "definition":  "The first stage in Lewin\u0027s Change Management Model, where the need for change is recognised and people are prepared for it.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  120
+                   }
+    },
+    {
+        "id":  "glossary-113",
+        "topic":  "Change Management",
+        "term":  "Vision Statement",
+        "definition":  "A description of what an organisation wants to achieve in the long term.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  121
+                   }
+    },
+    {
+        "id":  "glossary-114",
+        "topic":  "Change Management",
+        "term":  "Workforce Alignment",
+        "definition":  "The process of aligning the workforce with the strategic goals of the organisation during change.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  122
+                   }
+    },
+    {
+        "id":  "glossary-115",
+        "topic":  "External Factors",
+        "term":  "Competition",
+        "definition":  "The rivalry between businesses to attract customers and achieve higher sales and market share.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  126
+                   }
+    },
+    {
+        "id":  "glossary-116",
+        "topic":  "External Factors",
+        "term":  "Consumer Confidence",
+        "definition":  "The degree of optimism that consumers feel about the overall state of the economy and their personal financial situation.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  127
+                   }
+    },
+    {
+        "id":  "glossary-117",
+        "topic":  "External Factors",
+        "term":  "Cultural Trends",
+        "definition":  "Shifts in the shared beliefs, practices, and values within a society that can influence consumer behaviour and organisational strategies.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  128
+                   }
+    },
+    {
+        "id":  "glossary-118",
+        "topic":  "External Factors",
+        "term":  "Demographic Changes",
+        "definition":  "Variations in the characteristics of a population, such as age, gender, income, and education levels, which can impact market demand and labour supply.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  129
+                   }
+    },
+    {
+        "id":  "glossary-119",
+        "topic":  "External Factors",
+        "term":  "Economic Environment",
+        "definition":  "The state of the economy in which an organisation operates, including factors such as inflation, unemployment rates, and economic growth.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  130
+                   }
+    },
+    {
+        "id":  "glossary-120",
+        "topic":  "External Factors",
+        "term":  "Environmental Regulations",
+        "definition":  "Laws and rules aimed at protecting the environment, which can influence how organisations operate and their costs.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  131
+                   }
+    },
+    {
+        "id":  "glossary-121",
+        "topic":  "External Factors",
+        "term":  "Exchange Rates",
+        "definition":  "The value of one currency for the purpose of conversion to another, affecting international trade and operations.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  132
+                   }
+    },
+    {
+        "id":  "glossary-122",
+        "topic":  "External Factors",
+        "term":  "Globalisation",
+        "definition":  "The process by which businesses develop international influence or start operating on an international scale, impacting competition and market opportunities.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  133
+                   }
+    },
+    {
+        "id":  "glossary-123",
+        "topic":  "External Factors",
+        "term":  "Interest Rates",
+        "definition":  "The cost of borrowing money, which can affect consumer spending and business investment.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  134
+                   }
+    },
+    {
+        "id":  "glossary-124",
+        "topic":  "External Factors",
+        "term":  "Labour Market",
+        "definition":  "The supply and demand for labour, where employees provide the supply and employers the demand, influencing wage levels and employment rates.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  135
+                   }
+    },
+    {
+        "id":  "glossary-125",
+        "topic":  "External Factors",
+        "term":  "Legal Factors",
+        "definition":  "The laws and regulations that organisations must comply with, affecting their operations and profitability.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  136
+                   }
+    },
+    {
+        "id":  "glossary-126",
+        "topic":  "External Factors",
+        "term":  "Market Trends",
+        "definition":  "The general direction in which a market is moving, influenced by various economic, social, and technological factors.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  137
+                   }
+    },
+    {
+        "id":  "glossary-127",
+        "topic":  "External Factors",
+        "term":  "Natural Disasters",
+        "definition":  "Catastrophic events such as earthquakes, floods, and hurricanes that can disrupt organisational operations and supply chains.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  138
+                   }
+    },
+    {
+        "id":  "glossary-128",
+        "topic":  "External Factors",
+        "term":  "PESTLE Analysis",
+        "definition":  "A framework used to analyse the external macro-environmental factors affecting an organisation: Political, Economic, Social, Technological, Legal, and Environmental.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  139
+                   }
+    },
+    {
+        "id":  "glossary-129",
+        "topic":  "External Factors",
+        "term":  "Political Stability",
+        "definition":  "The degree to which a government is stable and predictable, affecting business confidence and investment decisions.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  140
+                   }
+    },
+    {
+        "id":  "glossary-130",
+        "topic":  "External Factors",
+        "term":  "Regulatory Changes",
+        "definition":  "Modifications in laws and regulations that can impact how organisations operate and their compliance requirements.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  141
+                   }
+    },
+    {
+        "id":  "glossary-131",
+        "topic":  "External Factors",
+        "term":  "Social Factors",
+        "definition":  "Aspects of society and culture that impact consumer needs and the size of potential markets, such as population growth and lifestyle changes.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  142
+                   }
+    },
+    {
+        "id":  "glossary-132",
+        "topic":  "External Factors",
+        "term":  "Supply Chain",
+        "definition":  "The network of suppliers, manufacturers, and distributors involved in producing and delivering a product to the customer.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  143
+                   }
+    },
+    {
+        "id":  "glossary-133",
+        "topic":  "External Factors",
+        "term":  "Taxation Policies",
+        "definition":  "The guidelines and regulations governing how much tax organisations must pay, affecting their profitability and investment decisions.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  144
+                   }
+    },
+    {
+        "id":  "glossary-134",
+        "topic":  "External Factors",
+        "term":  "Technological Advances",
+        "definition":  "Innovations and developments in technology that can create new opportunities or disrupt existing business models.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  145
+                   }
+    },
+    {
+        "id":  "glossary-135",
+        "topic":  "External Factors",
+        "term":  "Trade Barriers",
+        "definition":  "Government-imposed restrictions on international trade, such as tariffs and quotas, affecting market access and costs.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  146
+                   }
+    },
+    {
+        "id":  "glossary-136",
+        "topic":  "External Factors",
+        "term":  "Trade Unions",
+        "definition":  "Organisations representing workers\u0027 interests, which can influence labour conditions, wages, and organisational policies.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  147
+                   }
+    },
+    {
+        "id":  "glossary-137",
+        "topic":  "External Factors",
+        "term":  "Unemployment Rates",
+        "definition":  "The percentage of the labour force that is unemployed, affecting consumer spending and economic growth.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  148
+                   }
+    },
+    {
+        "id":  "glossary-138",
+        "topic":  "External Factors",
+        "term":  "Urbanisation",
+        "definition":  "The increasing movement of people from rural areas to cities, impacting market demand, infrastructure, and labour supply.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  149
+                   }
+    },
+    {
+        "id":  "glossary-139",
+        "topic":  "External Factors",
+        "term":  "Weather Patterns",
+        "definition":  "Climate conditions that can affect agricultural production, energy consumption, and overall business operations.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  150
+                   }
+    },
+    {
+        "id":  "glossary-140",
+        "topic":  "External Factors",
+        "term":  "Workforce Diversity",
+        "definition":  "The inclusion of employees from various backgrounds, cultures, and demographics, affecting organisational culture and performance.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  151
+                   }
+    },
+    {
+        "id":  "glossary-141",
+        "topic":  "External Factors",
+        "term":  "Workplace Safety",
+        "definition":  "Regulations and practices aimed at ensuring the health and safety of employees, affecting operational procedures and costs.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  152
+                   }
+    },
+    {
+        "id":  "glossary-142",
+        "topic":  "Legislation",
+        "term":  "Accident Book",
+        "definition":  "A logbook used to record details of any accidents that occur in the workplace, as required by Health and Safety regulations.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  156
+                   }
+    },
+    {
+        "id":  "glossary-143",
+        "topic":  "Legislation",
+        "term":  "Asbestos",
+        "definition":  "A hazardous material that was once commonly used in building construction but is now regulated due to its health risks.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  157
+                   }
+    },
+    {
+        "id":  "glossary-144",
+        "topic":  "Legislation",
+        "term":  "Audit",
+        "definition":  "A systematic review or assessment of something, typically conducted to ensure compliance with regulations or standards.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  158
+                   }
+    },
+    {
+        "id":  "glossary-145",
+        "topic":  "Legislation",
+        "term":  "COSHH",
+        "definition":  "Control of Substances Hazardous to Health Regulations, which require employers to control substances that are hazardous to health.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  159
+                   }
+    },
+    {
+        "id":  "glossary-146",
+        "topic":  "Legislation",
+        "term":  "DSE",
+        "definition":  "Display Screen Equipment regulations, which apply to workers who use display screens as part of their job, ensuring their health and safety.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  160
+                   }
+    },
+    {
+        "id":  "glossary-147",
+        "topic":  "Legislation",
+        "term":  "Data Protection",
+        "definition":  "UK data protection law governs the use of personal information. The UK GDPR\u0027s seven principles are lawfulness, fairness and transparency; purpose limitation; data minimisation; accuracy; storage limitation; integrity and confidentiality; and accountability.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  161
+                   },
+        "review":  {
+                       "reference":  "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/data-protection-principles/a-guide-to-the-data-protection-principles/"
+                   }
+    },
+    {
+        "id":  "glossary-148",
+        "topic":  "Legislation",
+        "term":  "Discrimination",
+        "definition":  "Unfair treatment of individuals based on protected characteristics such as age, gender, race, or disability.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  162
+                   }
+    },
+    {
+        "id":  "glossary-149",
+        "topic":  "Legislation",
+        "term":  "Duty of Care",
+        "definition":  "A legal obligation to ensure the safety and well-being of others.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  163
+                   }
+    },
+    {
+        "id":  "glossary-150",
+        "topic":  "Legislation",
+        "term":  "Equality Act 2010",
+        "definition":  "Legislation in the UK that legally protects people from discrimination in the workplace and in wider society.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  164
+                   }
+    },
+    {
+        "id":  "glossary-151",
+        "topic":  "Legislation",
+        "term":  "Fire Safety",
+        "definition":  "Regulations and practices designed to prevent and respond to fires in buildings and workplaces.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  165
+                   }
+    },
+    {
+        "id":  "glossary-152",
+        "topic":  "Legislation",
+        "term":  "First Aid",
+        "definition":  "Immediate assistance given to someone who is injured or ill before professional medical help arrives.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  166
+                   }
+    },
+    {
+        "id":  "glossary-153",
+        "topic":  "Legislation",
+        "term":  "GDPR",
+        "definition":  "GDPR means General Data Protection Regulation. For UK organisations, the UK GDPR and Data Protection Act 2018 are central to personal-data protection; EU GDPR may also apply to relevant cross-border activities.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  167
+                   },
+        "review":  {
+                       "reference":  "https://ico.org.uk/for-organisations/advice-for-small-organisations/getting-started-with-gdpr/data-protection-principles-definitions-and-key-terms"
+                   }
+    },
+    {
+        "id":  "glossary-154",
+        "topic":  "Legislation",
+        "term":  "Health and Safety",
+        "definition":  "Regulations and procedures intended to prevent accidents or injuries in workplaces or public environments.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  168
+                   }
+    },
+    {
+        "id":  "glossary-155",
+        "topic":  "Legislation",
+        "term":  "HSE",
+        "definition":  "Health and Safety Executive, the UK government agency responsible for the regulation and enforcement of workplace health, safety, and welfare.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  169
+                   }
+    },
+    {
+        "id":  "glossary-156",
+        "topic":  "Legislation",
+        "term":  "Incident Report",
+        "definition":  "A document detailing an event that resulted in injury, damage, or loss, used for analysis and prevention of future occurrences.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  170
+                   }
+    },
+    {
+        "id":  "glossary-157",
+        "topic":  "Legislation",
+        "term":  "Inspection",
+        "definition":  "An official examination or review of something, such as workplace practices and conditions, to ensure compliance with standards.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  171
+                   }
+    },
+    {
+        "id":  "glossary-158",
+        "topic":  "Legislation",
+        "term":  "Legislation",
+        "definition":  "Laws or legal rules enacted by a government body to regulate behaviour.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  172
+                   }
+    },
+    {
+        "id":  "glossary-159",
+        "topic":  "Legislation",
+        "term":  "Manual Handling",
+        "definition":  "Regulations and practices regarding the lifting, carrying, and moving of objects to prevent injury.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  173
+                   }
+    },
+    {
+        "id":  "glossary-160",
+        "topic":  "Legislation",
+        "term":  "Near Miss",
+        "definition":  "An event that could have resulted in injury, damage, or loss but did not, often used for analysis and prevention.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  174
+                   }
+    },
+    {
+        "id":  "glossary-161",
+        "topic":  "Legislation",
+        "term":  "Occupational Health",
+        "definition":  "The branch of healthcare that deals with the health and safety of workers.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  175
+                   }
+    },
+    {
+        "id":  "glossary-162",
+        "topic":  "Legislation",
+        "term":  "Personal Protective Equipment (PPE)",
+        "definition":  "Equipment worn to minimise exposure to hazards that cause serious workplace injuries and illnesses.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  176
+                   }
+    },
+    {
+        "id":  "glossary-163",
+        "topic":  "Legislation",
+        "term":  "Protected Characteristics",
+        "definition":  "Specific attributes or traits, such as age, disability, gender reassignment, marriage and civil partnership, pregnancy and maternity, race, religion or belief, sex, and sexual orientation, that are legally protected from discrimination.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  177
+                   }
+    },
+    {
+        "id":  "glossary-164",
+        "topic":  "Legislation",
+        "term":  "Public Liability",
+        "definition":  "Insurance that covers businesses against claims made by the public for injuries or damage caused by the business’s activities.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  178
+                   }
+    },
+    {
+        "id":  "glossary-165",
+        "topic":  "Legislation",
+        "term":  "RIDDOR",
+        "definition":  "Reporting of Injuries, Diseases and Dangerous Occurrences Regulations, which require employers to report certain serious workplace accidents, occupational diseases, and specified dangerous occurrences.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  179
+                   }
+    },
+    {
+        "id":  "glossary-166",
+        "topic":  "Legislation",
+        "term":  "Risk Assessment",
+        "definition":  "The process of identifying hazards and evaluating the risks associated with them, followed by implementing measures to control or eliminate those risks.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  180
+                   }
+    },
+    {
+        "id":  "glossary-167",
+        "topic":  "Legislation",
+        "term":  "Safeguarding",
+        "definition":  "Measures and policies in place to protect people\u0027s health, well-being, and human rights, ensuring they live free from harm, abuse, and neglect.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  181
+                   }
+    },
+    {
+        "id":  "glossary-168",
+        "topic":  "Legislation",
+        "term":  "Safety Signage",
+        "definition":  "Signs in the workplace that provide information or instructions about health and safety.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  182
+                   }
+    },
+    {
+        "id":  "glossary-169",
+        "topic":  "Legislation",
+        "term":  "Statutory Duty",
+        "definition":  "A legal obligation imposed by legislation.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  183
+                   }
+    },
+    {
+        "id":  "glossary-170",
+        "topic":  "Legislation",
+        "term":  "Training",
+        "definition":  "Educational activities designed to enhance the skills and knowledge of employees, ensuring they can perform their job safely and effectively.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  184
+                   }
+    },
+    {
+        "id":  "glossary-171",
+        "topic":  "Legislation",
+        "term":  "Welfare Facilities",
+        "definition":  "Facilities provided for the well-being of employees, such as toilets, rest areas, and places to eat.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  185
+                   }
+    },
+    {
+        "id":  "glossary-172",
+        "topic":  "Legislation",
+        "term":  "Workplace",
+        "definition":  "The place where someone works, including all areas where employees perform their job duties.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  186
+                   }
+    },
+    {
+        "id":  "glossary-173",
+        "topic":  "Legislation",
+        "term":  "Accident",
+        "definition":  "An unforeseen incident that results in injury, illness, or damage.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  187
+                   }
+    },
+    {
+        "id":  "glossary-174",
+        "topic":  "Legislation",
+        "term":  "Audit Trail",
+        "definition":  "A record showing who has accessed a computer system and what operations they have performed during a given period.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  188
+                   }
+    },
+    {
+        "id":  "glossary-175",
+        "topic":  "Legislation",
+        "term":  "Confidentiality",
+        "definition":  "The requirement to keep information private and secure, only sharing it with authorised individuals.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  189
+                   }
+    },
+    {
+        "id":  "glossary-176",
+        "topic":  "Legislation",
+        "term":  "Ergonomics",
+        "definition":  "The study of people\u0027s efficiency in their working environment, often applied to the design of equipment and systems.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  190
+                   }
+    },
+    {
+        "id":  "glossary-177",
+        "topic":  "Legislation",
+        "term":  "Hazard",
+        "definition":  "A potential source of harm or adverse health effect on a person or persons.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  191
+                   }
+    },
+    {
+        "id":  "glossary-178",
+        "topic":  "Legislation",
+        "term":  "Policy",
+        "definition":  "A course or principle of action adopted or proposed by an organisation or individual.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  192
+                   }
+    },
+    {
+        "id":  "glossary-179",
+        "topic":  "Legislation",
+        "term":  "Regulation",
+        "definition":  "An official rule or directive made and maintained by an authority.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  193
+                   }
+    },
+    {
+        "id":  "glossary-180",
+        "topic":  "Legislation",
+        "term":  "Safety Audit",
+        "definition":  "A comprehensive examination of an organisation\u0027s adherence to safety regulations and practices.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  194
+                   }
+    },
+    {
+        "id":  "glossary-181",
+        "topic":  "Legislation",
+        "term":  "Workplace Safety",
+        "definition":  "Measures and policies implemented to ensure the health and safety of employees while at work.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  195
+                   }
+    },
+    {
+        "id":  "glossary-182",
+        "topic":  "Problem Solving and Decision Making",
+        "term":  "Alternatives",
+        "definition":  "Different options or choices available when making a decision.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  199
+                   }
+    },
+    {
+        "id":  "glossary-183",
+        "topic":  "Problem Solving and Decision Making",
+        "term":  "Analysis",
+        "definition":  "Detailed examination of the elements or structure of something.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  200
+                   }
+    },
+    {
+        "id":  "glossary-184",
+        "topic":  "Problem Solving and Decision Making",
+        "term":  "Assessment",
+        "definition":  "Evaluation or estimation of the nature, quality, or ability of someone or something.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  201
+                   }
+    },
+    {
+        "id":  "glossary-185",
+        "topic":  "Problem Solving and Decision Making",
+        "term":  "Brainstorming",
+        "definition":  "A method of generating ideas to solve a problem by having a group discussion.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  202
+                   }
+    },
+    {
+        "id":  "glossary-186",
+        "topic":  "Problem Solving and Decision Making",
+        "term":  "Cause",
+        "definition":  "The reason or motive for an action or condition.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  203
+                   }
+    },
+    {
+        "id":  "glossary-187",
+        "topic":  "Problem Solving and Decision Making",
+        "term":  "Constraints",
+        "definition":  "Limitations or restrictions that affect decision making.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  204
+                   }
+    },
+    {
+        "id":  "glossary-188",
+        "topic":  "Problem Solving and Decision Making",
+        "term":  "Criteria",
+        "definition":  "Standards or principles by which something is judged or decided.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  205
+                   }
+    },
+    {
+        "id":  "glossary-189",
+        "topic":  "Problem Solving and Decision Making",
+        "term":  "Decision Making",
+        "definition":  "The process of making choices by identifying a decision, gathering information, and assessing alternative resolutions.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  206
+                   }
+    },
+    {
+        "id":  "glossary-190",
+        "topic":  "Problem Solving and Decision Making",
+        "term":  "Diagnosis",
+        "definition":  "Identification of the nature of a problem by examination of the symptoms.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  207
+                   }
+    },
+    {
+        "id":  "glossary-191",
+        "topic":  "Problem Solving and Decision Making",
+        "term":  "Evaluation",
+        "definition":  "The making of a judgement about the amount, number, or value of something; assessment.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  208
+                   }
+    },
+    {
+        "id":  "glossary-192",
+        "topic":  "Problem Solving and Decision Making",
+        "term":  "Feedback",
+        "definition":  "Information about reactions to a product, a person\u0027s performance of a task, etc., used as a basis for improvement.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  209
+                   }
+    },
+    {
+        "id":  "glossary-193",
+        "topic":  "Problem Solving and Decision Making",
+        "term":  "Implementation",
+        "definition":  "The process of putting a decision or plan into effect; execution.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  210
+                   }
+    },
+    {
+        "id":  "glossary-194",
+        "topic":  "Problem Solving and Decision Making",
+        "term":  "Information Gathering",
+        "definition":  "Collecting data and facts needed to make a decision or solve a problem.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  211
+                   }
+    },
+    {
+        "id":  "glossary-195",
+        "topic":  "Problem Solving and Decision Making",
+        "term":  "Objectives",
+        "definition":  "Specific results that one aims to achieve within a time frame with available resources.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  212
+                   }
+    },
+    {
+        "id":  "glossary-196",
+        "topic":  "Problem Solving and Decision Making",
+        "term":  "Options",
+        "definition":  "Different courses of action or strategies to choose from.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  213
+                   }
+    },
+    {
+        "id":  "glossary-197",
+        "topic":  "Problem Solving and Decision Making",
+        "term":  "Outcome",
+        "definition":  "The final result of a process or decision.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  214
+                   }
+    },
+    {
+        "id":  "glossary-198",
+        "topic":  "Problem Solving and Decision Making",
+        "term":  "Plan",
+        "definition":  "A detailed proposal for achieving something or an intention or decision about what one is going to do.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  215
+                   }
+    },
+    {
+        "id":  "glossary-199",
+        "topic":  "Problem Solving and Decision Making",
+        "term":  "Prioritisation",
+        "definition":  "Arranging or dealing with in order of importance.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  216
+                   }
+    },
+    {
+        "id":  "glossary-200",
+        "topic":  "Problem Solving and Decision Making",
+        "term":  "Problem",
+        "definition":  "A matter or situation regarded as unwelcome or harmful and needing to be dealt with and overcome.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  217
+                   }
+    },
+    {
+        "id":  "glossary-201",
+        "topic":  "Problem Solving and Decision Making",
+        "term":  "Problem Identification",
+        "definition":  "Recognising and acknowledging the existence of a problem.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  218
+                   }
+    },
+    {
+        "id":  "glossary-202",
+        "topic":  "Problem Solving and Decision Making",
+        "term":  "Problem Solving",
+        "definition":  "The process of finding solutions to difficult or complex issues.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  219
+                   }
+    },
+    {
+        "id":  "glossary-203",
+        "topic":  "Problem Solving and Decision Making",
+        "term":  "Problem Solving Cycle",
+        "definition":  "A repetitive sequence of steps taken to solve problems, usually involving problem identification, analysis, solution development, and implementation.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  220
+                   }
+    },
+    {
+        "id":  "glossary-204",
+        "topic":  "Problem Solving and Decision Making",
+        "term":  "Proposal",
+        "definition":  "A plan or suggestion put forward for consideration or discussion by others.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  221
+                   }
+    },
+    {
+        "id":  "glossary-205",
+        "topic":  "Problem Solving and Decision Making",
+        "term":  "Resolution",
+        "definition":  "The action of solving a problem or contentious matter.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  222
+                   }
+    },
+    {
+        "id":  "glossary-206",
+        "topic":  "Problem Solving and Decision Making",
+        "term":  "Review",
+        "definition":  "A formal assessment of something with the intention of instituting change if necessary.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  223
+                   }
+    },
+    {
+        "id":  "glossary-207",
+        "topic":  "Problem Solving and Decision Making",
+        "term":  "Root Cause Analysis",
+        "definition":  "A method of problem solving used for identifying the root causes of faults or problems.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  224
+                   }
+    },
+    {
+        "id":  "glossary-208",
+        "topic":  "Problem Solving and Decision Making",
+        "term":  "Solution",
+        "definition":  "A means of solving a problem or dealing with a difficult situation.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  225
+                   }
+    },
+    {
+        "id":  "glossary-209",
+        "topic":  "Problem Solving and Decision Making",
+        "term":  "Stakeholders",
+        "definition":  "All the people or groups that have an interest in the outcome of a project or decision.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  226
+                   }
+    },
+    {
+        "id":  "glossary-210",
+        "topic":  "Problem Solving and Decision Making",
+        "term":  "Strategy",
+        "definition":  "A plan of action designed to achieve a long-term or overall aim.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  227
+                   }
+    },
+    {
+        "id":  "glossary-211",
+        "topic":  "Problem Solving and Decision Making",
+        "term":  "Symptoms",
+        "definition":  "Signs or indications of a problem.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  228
+                   }
+    },
+    {
+        "id":  "glossary-212",
+        "topic":  "Project Management",
+        "term":  "Baseline",
+        "definition":  "A fixed reference point used to measure and compare the project\u0027s progress and performance.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  232
+                   }
+    },
+    {
+        "id":  "glossary-213",
+        "topic":  "Project Management",
+        "term":  "Budget",
+        "definition":  "The estimated cost of completing the project, including all resources and expenses.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  233
+                   }
+    },
+    {
+        "id":  "glossary-214",
+        "topic":  "Project Management",
+        "term":  "Change Management",
+        "definition":  "The process of managing alterations to the project scope, schedule, or resources.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  234
+                   }
+    },
+    {
+        "id":  "glossary-215",
+        "topic":  "Project Management",
+        "term":  "Charter",
+        "definition":  "A document that formally authorises the project and outlines its objectives, scope, and stakeholders.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  235
+                   }
+    },
+    {
+        "id":  "glossary-216",
+        "topic":  "Project Management",
+        "term":  "Contingency plan",
+        "definition":  "A contingency plan is a strategy designed to help an organisation or individual respond effectively to unexpected events or emergencies. It outlines specific actions to take in various scenarios to minimize disruption and ensure continuity.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  236
+                   }
+    },
+    {
+        "id":  "glossary-217",
+        "topic":  "Project Management",
+        "term":  "Critical Path",
+        "definition":  "The sequence of tasks that determines the shortest possible duration to complete the project.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  237
+                   }
+    },
+    {
+        "id":  "glossary-218",
+        "topic":  "Project Management",
+        "term":  "Deliverable",
+        "definition":  "A tangible or intangible output produced as a result of project activities.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  238
+                   }
+    },
+    {
+        "id":  "glossary-219",
+        "topic":  "Project Management",
+        "term":  "Dependency",
+        "definition":  "A relationship between tasks where one task relies on the completion of another.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  239
+                   }
+    },
+    {
+        "id":  "glossary-220",
+        "topic":  "Project Management",
+        "term":  "Feasibility Study",
+        "definition":  "An analysis conducted to determine the viability and potential success of a project.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  240
+                   }
+    },
+    {
+        "id":  "glossary-221",
+        "topic":  "Project Management",
+        "term":  "Gantt Chart",
+        "definition":  "A visual representation of the project schedule, showing tasks, durations, and dependencies.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  241
+                   }
+    },
+    {
+        "id":  "glossary-222",
+        "topic":  "Project Management",
+        "term":  "Kick-off Meeting",
+        "definition":  "The initial meeting where the project team and stakeholders discuss the project objectives, scope, and plan.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  242
+                   }
+    },
+    {
+        "id":  "glossary-223",
+        "topic":  "Project Management",
+        "term":  "Lifecycle",
+        "definition":  "The stages a project goes through from initiation to closure.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  243
+                   }
+    },
+    {
+        "id":  "glossary-224",
+        "topic":  "Project Management",
+        "term":  "Milestone",
+        "definition":  "A significant event or point in the project timeline that marks the completion of a major phase.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  244
+                   }
+    },
+    {
+        "id":  "glossary-225",
+        "topic":  "Project Management",
+        "term":  "Mitigation",
+        "definition":  "Actions taken to reduce the impact or likelihood of a risk occurring.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  245
+                   }
+    },
+    {
+        "id":  "glossary-226",
+        "topic":  "Project Management",
+        "term":  "Monitoring",
+        "definition":  "The process of tracking project progress and performance against the plan.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  246
+                   }
+    },
+    {
+        "id":  "glossary-227",
+        "topic":  "Project Management",
+        "term":  "Objective",
+        "definition":  "A specific goal that the project aims to achieve.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  247
+                   }
+    },
+    {
+        "id":  "glossary-228",
+        "topic":  "Project Management",
+        "term":  "Phase",
+        "definition":  "A distinct stage in the project lifecycle, such as initiation, planning, execution, or closure.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  248
+                   }
+    },
+    {
+        "id":  "glossary-229",
+        "topic":  "Project Management",
+        "term":  "Portfolio",
+        "definition":  "A collection of projects and programmes managed together to achieve strategic objectives.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  249
+                   }
+    },
+    {
+        "id":  "glossary-230",
+        "topic":  "Project Management",
+        "term":  "Product breakdown structure",
+        "definition":  "Is used to analyse, document and communicate the outcomes of a project as well as to reduce a complex project, or product, into manageable components",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  250
+                   }
+    },
+    {
+        "id":  "glossary-231",
+        "topic":  "Project Management",
+        "term":  "Programme",
+        "definition":  "A group of related projects managed in a coordinated way to obtain benefits not available from managing them individually.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  251
+                   }
+    },
+    {
+        "id":  "glossary-232",
+        "topic":  "Project Management",
+        "term":  "Project Cycle",
+        "definition":  "The series of phases that a project passes through from initiation, scope, plan, monitor, report, evaluate to closure.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  252
+                   }
+    },
+    {
+        "id":  "glossary-233",
+        "topic":  "Project Management",
+        "term":  "Project Manager",
+        "definition":  "The person responsible for planning, executing, and closing a project.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  253
+                   }
+    },
+    {
+        "id":  "glossary-234",
+        "topic":  "Project Management",
+        "term":  "Quality Assurance",
+        "definition":  "The process of ensuring that project deliverables meet the required standards and specifications.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  254
+                   }
+    },
+    {
+        "id":  "glossary-235",
+        "topic":  "Project Management",
+        "term":  "Resource Allocation",
+        "definition":  "The process of assigning available resources to specific tasks or activities.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  255
+                   }
+    },
+    {
+        "id":  "glossary-236",
+        "topic":  "Project Management",
+        "term":  "Risk Management",
+        "definition":  "The process of identifying, assessing, and controlling risks that could impact the project.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  256
+                   }
+    },
+    {
+        "id":  "glossary-237",
+        "topic":  "Project Management",
+        "term":  "Risk Matrix/Log",
+        "definition":  "Is a matrix that is used during risk assessment to define the level of risk by considering the probability or likelihood. This is a simple mechanism to increase the visibility of risks and assist management in decision making.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  257
+                   }
+    },
+    {
+        "id":  "glossary-238",
+        "topic":  "Project Management",
+        "term":  "Scope",
+        "definition":  "The defined boundaries and deliverables of the project.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  258
+                   }
+    },
+    {
+        "id":  "glossary-239",
+        "topic":  "Project Management",
+        "term":  "Scheduling",
+        "definition":  "Within a project it can be used to set when an activity should start or end, depending on its duration, resource availability, and target completion date of the project",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  259
+                   }
+    },
+    {
+        "id":  "glossary-240",
+        "topic":  "Project Management",
+        "term":  "Scrum",
+        "definition":  "An agile methodology focused on iterative progress through regular sprints and teamwork.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  260
+                   }
+    },
+    {
+        "id":  "glossary-241",
+        "topic":  "Project Management",
+        "term":  "Stakeholder",
+        "definition":  "Any individual or group impacted by the project or its outcomes.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  261
+                   }
+    },
+    {
+        "id":  "glossary-242",
+        "topic":  "Project Management",
+        "term":  "Statement of Work",
+        "definition":  "A detailed description of the work required for the project, including deliverables and timelines.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  262
+                   }
+    },
+    {
+        "id":  "glossary-243",
+        "topic":  "Project Management",
+        "term":  "Task",
+        "definition":  "A specific activity or piece of work required to complete a project deliverable.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  263
+                   }
+    },
+    {
+        "id":  "glossary-244",
+        "topic":  "Project Management",
+        "term":  "Timeline",
+        "definition":  "A schedule that outlines the planned start and finish dates for project tasks and activities.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  264
+                   }
+    },
+    {
+        "id":  "glossary-245",
+        "topic":  "Project Management",
+        "term":  "Triple Constraint",
+        "definition":  "The balance of the project\u0027s scope, time, and cost.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  265
+                   }
+    },
+    {
+        "id":  "glossary-246",
+        "topic":  "Project Management",
+        "term":  "Waterfall",
+        "definition":  "A traditional project management methodology that follows a linear, sequential approach.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  266
+                   }
+    },
+    {
+        "id":  "glossary-247",
+        "topic":  "Project Management",
+        "term":  "Work Breakdown Structure",
+        "definition":  "A hierarchical decomposition of the total scope of work to accomplish the project objectives.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  267
+                   }
+    },
+    {
+        "id":  "glossary-248",
+        "topic":  "Stakeholders",
+        "term":  "Accountability",
+        "definition":  "The obligation of an organisation to account for its activities, accept responsibility, and disclose results transparently to stakeholders.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  271
+                   }
+    },
+    {
+        "id":  "glossary-249",
+        "topic":  "Stakeholders",
+        "term":  "Analysis",
+        "definition":  "The process of examining stakeholder needs, interests, and influence to inform decision-making and strategy.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  272
+                   }
+    },
+    {
+        "id":  "glossary-250",
+        "topic":  "Stakeholders",
+        "term":  "Assessment",
+        "definition":  "Evaluation of stakeholder engagement effectiveness and identifying areas for improvement.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  273
+                   }
+    },
+    {
+        "id":  "glossary-251",
+        "topic":  "Stakeholders",
+        "term":  "Collaboration",
+        "definition":  "The act of working jointly with stakeholders to achieve common goals.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  274
+                   }
+    },
+    {
+        "id":  "glossary-252",
+        "topic":  "Stakeholders",
+        "term":  "Communication",
+        "definition":  "The exchange of information between an organisation and its stakeholders.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  275
+                   }
+    },
+    {
+        "id":  "glossary-253",
+        "topic":  "Stakeholders",
+        "term":  "Consultation",
+        "definition":  "The process of seeking stakeholders\u0027 input and feedback on organisational decisions and actions.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  276
+                   }
+    },
+    {
+        "id":  "glossary-254",
+        "topic":  "Stakeholders",
+        "term":  "Engagement",
+        "definition":  "The process of interacting with stakeholders to understand their needs and expectations.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  277
+                   }
+    },
+    {
+        "id":  "glossary-255",
+        "topic":  "Stakeholders",
+        "term":  "Ethics",
+        "definition":  "Principles guiding the moral conduct of an organisation in its dealings with stakeholders.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  278
+                   }
+    },
+    {
+        "id":  "glossary-256",
+        "topic":  "Stakeholders",
+        "term":  "Feedback",
+        "definition":  "Information provided by stakeholders regarding their perception of an organisation\u0027s actions and decisions.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  279
+                   }
+    },
+    {
+        "id":  "glossary-257",
+        "topic":  "Stakeholders",
+        "term":  "Governance",
+        "definition":  "The framework of rules and practices by which an organisation ensures accountability, fairness, and transparency in its relationship with stakeholders.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  280
+                   }
+    },
+    {
+        "id":  "glossary-258",
+        "topic":  "Stakeholders",
+        "term":  "Influence",
+        "definition":  "The capacity of stakeholders to affect organisational decisions and actions.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  281
+                   }
+    },
+    {
+        "id":  "glossary-259",
+        "topic":  "Stakeholders",
+        "term":  "Interest",
+        "definition":  "The stake or concern that stakeholders have in an organisation\u0027s activities.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  282
+                   }
+    },
+    {
+        "id":  "glossary-260",
+        "topic":  "Stakeholders",
+        "term":  "Mapping",
+        "definition":  "The process of identifying and categorising stakeholders based on their influence and interest.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  283
+                   }
+    },
+    {
+        "id":  "glossary-261",
+        "topic":  "Stakeholders",
+        "term":  "Needs",
+        "definition":  "The requirements and expectations that stakeholders have from an organisation.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  284
+                   }
+    },
+    {
+        "id":  "glossary-262",
+        "topic":  "Stakeholders",
+        "term":  "Participation",
+        "definition":  "The active involvement of stakeholders in organisational processes and decision-making.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  285
+                   }
+    },
+    {
+        "id":  "glossary-263",
+        "topic":  "Stakeholders",
+        "term":  "Partnership",
+        "definition":  "A collaborative relationship between an organisation and its stakeholders aimed at achieving shared objectives.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  286
+                   }
+    },
+    {
+        "id":  "glossary-264",
+        "topic":  "Stakeholders",
+        "term":  "Principles of Stakeholder Management",
+        "definition":  "Guidelines that dictate how an organisation should engage with its stakeholders responsibly and ethically.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  287
+                   }
+    },
+    {
+        "id":  "glossary-265",
+        "topic":  "Stakeholders",
+        "term":  "Prioritisation",
+        "definition":  "The process of ranking stakeholders based on their importance and influence to focus engagement efforts effectively.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  288
+                   }
+    },
+    {
+        "id":  "glossary-266",
+        "topic":  "Stakeholders",
+        "term":  "Relationships",
+        "definition":  "The connections and interactions between an organisation and its stakeholders.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  289
+                   }
+    },
+    {
+        "id":  "glossary-267",
+        "topic":  "Stakeholders",
+        "term":  "Reporting",
+        "definition":  "The process of disclosing information to stakeholders about organisational performance and activities.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  290
+                   }
+    },
+    {
+        "id":  "glossary-268",
+        "topic":  "Stakeholders",
+        "term":  "Responsibility",
+        "definition":  "The duty of an organisation to act in the best interests of its stakeholders.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  291
+                   }
+    },
+    {
+        "id":  "glossary-269",
+        "topic":  "Stakeholders",
+        "term":  "Stakeholder",
+        "definition":  "Any individual or group that can affect or is affected by an organisation\u0027s activities.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  292
+                   }
+    },
+    {
+        "id":  "glossary-270",
+        "topic":  "Stakeholders",
+        "term":  "Stakeholder Analysis",
+        "definition":  "The process of identifying, assessing, and prioritising stakeholders to inform engagement strategies.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  293
+                   }
+    },
+    {
+        "id":  "glossary-271",
+        "topic":  "Stakeholders",
+        "term":  "Stakeholder Engagement",
+        "definition":  "The process of involving stakeholders in organisational activities and decision-making.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  294
+                   }
+    },
+    {
+        "id":  "glossary-272",
+        "topic":  "Stakeholders",
+        "term":  "Stakeholder Management",
+        "definition":  "The systematic identification, analysis, planning, and implementation of actions designed to engage with stakeholders.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  295
+                   }
+    },
+    {
+        "id":  "glossary-273",
+        "topic":  "Stakeholders",
+        "term":  "Stakeholder Mapping",
+        "definition":  "A visual representation of stakeholders categorised by their influence and interest.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  296
+                   }
+    },
+    {
+        "id":  "glossary-274",
+        "topic":  "Stakeholders",
+        "term":  "Stakeholder Needs",
+        "definition":  "The specific wants and requirements of stakeholders from an organisation.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  297
+                   }
+    },
+    {
+        "id":  "glossary-275",
+        "topic":  "Stakeholders",
+        "term":  "Stakeholder Prioritisation",
+        "definition":  "The process of determining which stakeholders require the most attention and resources.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  298
+                   }
+    },
+    {
+        "id":  "glossary-276",
+        "topic":  "Stakeholders",
+        "term":  "Stakeholder Relationships",
+        "definition":  "The ongoing interactions and bonds between an organisation and its stakeholders.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  299
+                   }
+    },
+    {
+        "id":  "glossary-277",
+        "topic":  "Stakeholders",
+        "term":  "Transparency",
+        "definition":  "The quality of being open and honest in communication and actions with stakeholders.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  300
+                   }
+    },
+    {
+        "id":  "glossary-278",
+        "topic":  "Stakeholders",
+        "term":  "Trust",
+        "definition":  "The confidence that stakeholders have in an organisation\u0027s actions and decisions.",
+        "source":  {
+                       "document":  "Revision glossary.docx",
+                       "row":  301
+                   }
+    }
+]

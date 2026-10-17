@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "ncfe-002-01",
+    "number": 1,
+    "question": "There are three well-known types of change management. Which one below is a type of change management?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Historical"
+      },
+      {
+        "id": "B",
+        "text": "Conditional"
+      },
+      {
+        "id": "C",
+        "text": "Insightful"
+      },
+      {
+        "id": "D",
+        "text": "Transformational"
+      }
+    ],
+    "answer": "D",
+    "source": {
+      "document": "BASAMPLE002 NCFE.pdf",
+      "page": 3
+    }
+  },
+  {
+    "id": "ncfe-002-02",
+    "number": 2,
+    "question": "Mandeep has been asked to look into the potential risks of setting up a supply chain for the company. Which one of the below will she have to take into consideration?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Time differences."
+      },
+      {
+        "id": "B",
+        "text": "Size of customer base."
+      },
+      {
+        "id": "C",
+        "text": "Project length."
+      },
+      {
+        "id": "D",
+        "text": "Internal processes."
+      }
+    ],
+    "answer": "D",
+    "source": {
+      "document": "BASAMPLE002 NCFE.pdf",
+      "page": 3
+    }
+  },
+  {
+    "id": "ncfe-002-03",
+    "number": 3,
+    "question": "Which one of these stages is part of the project lifecycle?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Client testing phase."
+      },
+      {
+        "id": "B",
+        "text": "Initiation phase."
+      },
+      {
+        "id": "C",
+        "text": "Technical design phase."
+      },
+      {
+        "id": "D",
+        "text": "Resource phase."
+      }
+    ],
+    "answer": "B",
+    "source": {
+      "document": "BASAMPLE002 NCFE.pdf",
+      "page": 3
+    }
+  },
+  {
+    "id": "ncfe-002-04",
+    "number": 4,
+    "question": "What would be one of the first things you would do to aid the company to become a global business?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Conduct foreign market research."
+      },
+      {
+        "id": "B",
+        "text": "Check the exchange rates."
+      },
+      {
+        "id": "C",
+        "text": "Visit your target market."
+      },
+      {
+        "id": "D",
+        "text": "Learn a foreign language."
+      }
+    ],
+    "answer": "A",
+    "source": {
+      "document": "BASAMPLE002 NCFE.pdf",
+      "page": 4
+    }
+  },
+  {
+    "id": "ncfe-002-05",
+    "number": 5,
+    "question": "You are completing a list of stakeholders for a project. Which of these groups can be classified as internal stakeholders?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Colleagues, Project Manager, Media."
+      },
+      {
+        "id": "B",
+        "text": "Media, Colleagues, Board of Directors."
+      },
+      {
+        "id": "C",
+        "text": "Project Manager, Internal Media, Main Supplier."
+      },
+      {
+        "id": "D",
+        "text": "Board of Directors, Internal Customers, Project Manager."
+      }
+    ],
+    "answer": "D",
+    "source": {
+      "document": "BASAMPLE002 NCFE.pdf",
+      "page": 4
+    }
+  },
+  {
+    "id": "ncfe-002-06",
+    "number": 6,
+    "question": "Your company's regulators have sent in some new regulations to follow. What is the definition of a regulator?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A person or body that supervises a particular industry or business activity."
+      },
+      {
+        "id": "B",
+        "text": "A person or body who manages business activities in a particular industry."
+      },
+      {
+        "id": "C",
+        "text": "A person or company who manages an industry."
+      },
+      {
+        "id": "D",
+        "text": "A person or body who has knowledge of company policies."
+      }
+    ],
+    "answer": "A",
+    "source": {
+      "document": "BASAMPLE002 NCFE.pdf",
+      "page": 4
+    }
+  },
+  {
+    "id": "ncfe-002-07",
+    "number": 7,
+    "question": "GDPR regulations apply to \"controllers\" and \"processors\". What is the definition of a controller?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Determines how much data is given to the processors and the means of processing the data."
+      },
+      {
+        "id": "B",
+        "text": "Determines who the processors are and the data coming into the company."
+      },
+      {
+        "id": "C",
+        "text": "Determines what data is personal data and sensitive personal data in the business."
+      },
+      {
+        "id": "D",
+        "text": "Determines the purposes and means of processing personal data."
+      }
+    ],
+    "answer": "D",
+    "source": {
+      "document": "BASAMPLE002 NCFE.pdf",
+      "page": 5
+    }
+  },
+  {
+    "id": "ncfe-002-08",
+    "number": 8,
+    "question": "Gavin is looking into the advantages of project management. What would be a positive impact of effective project management?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Removes any financial barriers to projects."
+      },
+      {
+        "id": "B",
+        "text": "Strategic alignment for the company."
+      },
+      {
+        "id": "C",
+        "text": "Teams will be working on their own."
+      },
+      {
+        "id": "D",
+        "text": "Leaders of project management become accountable."
+      }
+    ],
+    "answer": "B",
+    "source": {
+      "document": "BASAMPLE002 NCFE.pdf",
+      "page": 5
+    }
+  },
+  {
+    "id": "ncfe-002-09",
+    "number": 9,
+    "question": "Brian has had to review rates of pay for all staff members aged 25 and over following changes to National Living Wages. What has he been affected by?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Market Forces."
+      },
+      {
+        "id": "B",
+        "text": "Procedure Change."
+      },
+      {
+        "id": "C",
+        "text": "Regulatory Changes."
+      },
+      {
+        "id": "D",
+        "text": "Low Pay Commission."
+      }
+    ],
+    "answer": "C",
+    "source": {
+      "document": "BASAMPLE002 NCFE.pdf",
+      "page": 5
+    }
+  },
+  {
+    "id": "ncfe-002-10",
+    "number": 10,
+    "question": "Which one of the below would you be most likely to utilise when managing a project?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Gantt Chart."
+      },
+      {
+        "id": "B",
+        "text": "Belbins Model."
+      },
+      {
+        "id": "C",
+        "text": "Leadership theory."
+      },
+      {
+        "id": "D",
+        "text": "H.A.C.C.A.P. Plan."
+      }
+    ],
+    "answer": "A",
+    "source": {
+      "document": "BASAMPLE002 NCFE.pdf",
+      "page": 6
+    }
+  },
+  {
+    "id": "ncfe-002-11",
+    "number": 11,
+    "question": "You are starting a project your manager has asked you to complete and you have decided to use the waterfall method of project management. What is the main benefit of the waterfall method?",
+    "options": [
+      {
+        "id": "A",
+        "text": "It allows you to move tasks to different departments within the project."
+      },
+      {
+        "id": "B",
+        "text": "It outlines a clear goal for each individual development phase of a project."
+      },
+      {
+        "id": "C",
+        "text": "It shows clearly the flexibility to move events and tasks within the project."
+      },
+      {
+        "id": "D",
+        "text": "It gives the illusion that the project is nearer completion than it actually is."
+      }
+    ],
+    "answer": "B",
+    "source": {
+      "document": "BASAMPLE002 NCFE.pdf",
+      "page": 6
+    }
+  },
+  {
+    "id": "ncfe-002-12",
+    "number": 12,
+    "question": "You are learning about first aid in the workplace in your induction. Which one of these is a 'must have' from the Health and Safety Executive?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A first aid policy that all employees must follow."
+      },
+      {
+        "id": "B",
+        "text": "Every employee trained on first aid."
+      },
+      {
+        "id": "C",
+        "text": "Free first aid training for all employees."
+      },
+      {
+        "id": "D",
+        "text": "An appointed person to take charge of first aid arrangements."
+      }
+    ],
+    "answer": "D",
+    "source": {
+      "document": "BASAMPLE002 NCFE.pdf",
+      "page": 6
+    }
+  },
+  {
+    "id": "ncfe-002-13",
+    "number": 13,
+    "question": "You have been asked to lead a project by your manager. Which one of these is a main resource needed for a project?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Customers"
+      },
+      {
+        "id": "B",
+        "text": "Suppliers"
+      },
+      {
+        "id": "C",
+        "text": "Capital"
+      },
+      {
+        "id": "D",
+        "text": "Technology"
+      }
+    ],
+    "answer": "C",
+    "source": {
+      "document": "BASAMPLE002 NCFE.pdf",
+      "page": 7
+    }
+  },
+  {
+    "id": "ncfe-002-14",
+    "number": 14,
+    "question": "There has been a change of employment legislation which affects your organisation. Which department would communicate and support you with this?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Finance"
+      },
+      {
+        "id": "B",
+        "text": "Quality Improvement"
+      },
+      {
+        "id": "C",
+        "text": "Human Resources"
+      },
+      {
+        "id": "D",
+        "text": "Procurement"
+      }
+    ],
+    "answer": "C",
+    "source": {
+      "document": "BASAMPLE002 NCFE.pdf",
+      "page": 7
+    }
+  },
+  {
+    "id": "ncfe-002-15",
+    "number": 15,
+    "question": "Your manager is considering changing the mission statement of the company. What is the definition of a mission statement?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A formal summary of the aims and values of a company, organisation or individual."
+      },
+      {
+        "id": "B",
+        "text": "A statement which identifies the direction the company is working towards."
+      },
+      {
+        "id": "C",
+        "text": "A sentence which embodies the culture of the company and how it operates."
+      },
+      {
+        "id": "D",
+        "text": "A formal statement of the way the company will achieve success."
+      }
+    ],
+    "answer": "A",
+    "source": {
+      "document": "BASAMPLE002 NCFE.pdf",
+      "page": 7
+    }
+  },
+  {
+    "id": "ncfe-002-16",
+    "number": 16,
+    "question": "Your manager has asked you to complete a PESTLE analysis to evaluate factors which affect the organisation. What does PESTLE stand for?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Political, Ethical, Social, Technology, Legal and Environment."
+      },
+      {
+        "id": "B",
+        "text": "Political, Economic, Social, Technology, Legal and Environment."
+      },
+      {
+        "id": "C",
+        "text": "Political, Economic, Social, Technology, Logistical and Environmental."
+      },
+      {
+        "id": "D",
+        "text": "Practical, Economic, Social, Technology, Legal and Environmental."
+      }
+    ],
+    "answer": "B",
+    "source": {
+      "document": "BASAMPLE002 NCFE.pdf",
+      "page": 8
+    }
+  },
+  {
+    "id": "ncfe-002-17",
+    "number": 17,
+    "question": "You have been asked by your manager to create a Gantt Chart to assist in delivering a project. What is a Gantt Chart?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A diagram which uses nodes and arrows to show relationships between events, activities and projects."
+      },
+      {
+        "id": "B",
+        "text": "A breakdown of project activities into sequential phases."
+      },
+      {
+        "id": "C",
+        "text": "A type of bar chart that illustrates a project schedule."
+      },
+      {
+        "id": "D",
+        "text": "A schedule to allow the project manager only to review the project milestones."
+      }
+    ],
+    "answer": "C",
+    "source": {
+      "document": "BASAMPLE002 NCFE.pdf",
+      "page": 8
+    }
+  },
+  {
+    "id": "ncfe-002-18",
+    "number": 18,
+    "question": "Which one of the following would impact on the role of a business administrator working in the international market?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Exchange rate figures."
+      },
+      {
+        "id": "B",
+        "text": "Company health and safety policy."
+      },
+      {
+        "id": "C",
+        "text": "Consumer rights."
+      },
+      {
+        "id": "D",
+        "text": "Trade Union disagreements."
+      }
+    ],
+    "answer": "A",
+    "source": {
+      "document": "BASAMPLE002 NCFE.pdf",
+      "page": 8
+    }
+  },
+  {
+    "id": "ncfe-002-19",
+    "number": 19,
+    "question": "Your manager has asked you to identify the interest levels of stakeholders. What grid could you use to deliver this information?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Benefit vs delivery."
+      },
+      {
+        "id": "B",
+        "text": "Power vs interest."
+      },
+      {
+        "id": "C",
+        "text": "Power vs benefit."
+      },
+      {
+        "id": "D",
+        "text": "Interest vs benefit."
+      }
+    ],
+    "answer": "B",
+    "source": {
+      "document": "BASAMPLE002 NCFE.pdf",
+      "page": 9
+    }
+  },
+  {
+    "id": "ncfe-002-20",
+    "number": 20,
+    "question": "Managing change has three different \"states\" identified for a business. Which of the \"states\" below is one of them?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Persuasive"
+      },
+      {
+        "id": "B",
+        "text": "Transition"
+      },
+      {
+        "id": "C",
+        "text": "Past"
+      },
+      {
+        "id": "D",
+        "text": "Historical"
+      }
+    ],
+    "answer": "B",
+    "source": {
+      "document": "BASAMPLE002 NCFE.pdf",
+      "page": 9
+    }
+  },
+  {
+    "id": "ncfe-002-21",
+    "number": 21,
+    "question": "You have something very important to tell an internal customer within your organisation. Which one of the following would be the most effective method of communication?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Send an email."
+      },
+      {
+        "id": "B",
+        "text": "Leave a note."
+      },
+      {
+        "id": "C",
+        "text": "Tell a colleague."
+      },
+      {
+        "id": "D",
+        "text": "Face to face."
+      }
+    ],
+    "answer": "D",
+    "source": {
+      "document": "BASAMPLE002 NCFE.pdf",
+      "page": 9
+    }
+  },
+  {
+    "id": "ncfe-002-22",
+    "number": 22,
+    "question": "An organisation is making compulsory redundancies. Which stakeholder role will be directly affected by this?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Staff"
+      },
+      {
+        "id": "B",
+        "text": "Clients"
+      },
+      {
+        "id": "C",
+        "text": "Retailer"
+      },
+      {
+        "id": "D",
+        "text": "Suppliers"
+      }
+    ],
+    "answer": "A",
+    "source": {
+      "document": "BASAMPLE002 NCFE.pdf",
+      "page": 10
+    }
+  },
+  {
+    "id": "ncfe-002-23",
+    "number": 23,
+    "question": "Which one of the terms below is a type of international business strategy?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Political"
+      },
+      {
+        "id": "B",
+        "text": "Corporate"
+      },
+      {
+        "id": "C",
+        "text": "Domestic"
+      },
+      {
+        "id": "D",
+        "text": "Transnational"
+      }
+    ],
+    "answer": "D",
+    "source": {
+      "document": "BASAMPLE002 NCFE.pdf",
+      "page": 10
+    }
+  },
+  {
+    "id": "ncfe-002-24",
+    "number": 24,
+    "question": "Which one of the terms below are you likely find in a financial statement?",
+    "options": [
+      {
+        "id": "A",
+        "text": "P.T.D (Project to date)."
+      },
+      {
+        "id": "B",
+        "text": "E.P.S (Earning per share)."
+      },
+      {
+        "id": "C",
+        "text": "A.R.C (Accounts receivable conversion)."
+      },
+      {
+        "id": "D",
+        "text": "E.M.I (Equated monthly instalments)."
+      }
+    ],
+    "answer": "B",
+    "source": {
+      "document": "BASAMPLE002 NCFE.pdf",
+      "page": 10
+    }
+  },
+  {
+    "id": "ncfe-002-25",
+    "number": 25,
+    "question": "Which one of these is a software designed for the purpose of project management?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Outlook Projects."
+      },
+      {
+        "id": "B",
+        "text": "Google Hangouts."
+      },
+      {
+        "id": "C",
+        "text": "Prince 2."
+      },
+      {
+        "id": "D",
+        "text": "Microsoft Teams."
+      }
+    ],
+    "answer": "C",
+    "source": {
+      "document": "BASAMPLE002 NCFE.pdf",
+      "page": 11
+    }
+  },
+  {
+    "id": "ncfe-002-26",
+    "number": 26,
+    "question": "Which one of the below is an important consideration for your company if it was trading in a global market?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Shareholders"
+      },
+      {
+        "id": "B",
+        "text": "National Insurance"
+      },
+      {
+        "id": "C",
+        "text": "IT skills"
+      },
+      {
+        "id": "D",
+        "text": "Ethical Suppliers."
+      }
+    ],
+    "answer": "D",
+    "source": {
+      "document": "BASAMPLE002 NCFE.pdf",
+      "page": 11
+    }
+  },
+  {
+    "id": "ncfe-002-27",
+    "number": 27,
+    "question": "You have been asked by your manager to deliver information to stakeholders. How would you go about doing this?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Complete a plan when you send out a mail merge to all stakeholders asking for a reply that they received the information."
+      },
+      {
+        "id": "B",
+        "text": "Call all stakeholders and follow up with an email with the information required."
+      },
+      {
+        "id": "C",
+        "text": "Call all stakeholders delivering the information required."
+      },
+      {
+        "id": "D",
+        "text": "Complete a communication plan for all stakeholders ensuring preferred communication channels are correct and timescales added."
+      }
+    ],
+    "answer": "D",
+    "source": {
+      "document": "BASAMPLE002 NCFE.pdf",
+      "page": 11
+    }
+  },
+  {
+    "id": "ncfe-002-28",
+    "number": 28,
+    "question": "GDPR law covers the processing and storage of personal data. What personal data is covered?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Name, ID number (e.g. NI or passport number), location, signature."
+      },
+      {
+        "id": "B",
+        "text": "Name, car number plate, location, online identifier."
+      },
+      {
+        "id": "C",
+        "text": "Name, ID number (e.g. NI or passport number), location, online identifier."
+      },
+      {
+        "id": "D",
+        "text": "Name, ID number (e.g. NI or passport number), location, password."
+      }
+    ],
+    "answer": "C",
+    "source": {
+      "document": "BASAMPLE002 NCFE.pdf",
+      "page": 12
+    }
+  },
+  {
+    "id": "ncfe-002-29",
+    "number": 29,
+    "question": "When working with stakeholders, which one of the following is the most important part of stakeholder management?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Communication."
+      },
+      {
+        "id": "B",
+        "text": "Benefits to company."
+      },
+      {
+        "id": "C",
+        "text": "Status of stakeholder."
+      },
+      {
+        "id": "D",
+        "text": "Contact list."
+      }
+    ],
+    "answer": "A",
+    "source": {
+      "document": "BASAMPLE002 NCFE.pdf",
+      "page": 12
+    }
+  },
+  {
+    "id": "ncfe-002-30",
+    "number": 30,
+    "question": "Who would be most likely to be instrumental in a legislation and regulatory policy change, such as the Trades Descriptions Act?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The police."
+      },
+      {
+        "id": "B",
+        "text": "The company."
+      },
+      {
+        "id": "C",
+        "text": "The government."
+      },
+      {
+        "id": "D",
+        "text": "The council."
+      }
+    ],
+    "answer": "C",
+    "source": {
+      "document": "BASAMPLE002 NCFE.pdf",
+      "page": 12
+    }
+  },
+  {
+    "id": "ncfe-002-31",
+    "number": 31,
+    "question": "You work in a large company and there is an urgent update to current regulation which affects everyone in the company. What would be the best way to communicate this update ensuring everyone receives the same information?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mandatory e-Learning course."
+      },
+      {
+        "id": "B",
+        "text": "Each department having their own training session."
+      },
+      {
+        "id": "C",
+        "text": "Monthly newsletter."
+      },
+      {
+        "id": "D",
+        "text": "Presentation at the next all staff event."
+      }
+    ],
+    "answer": "A",
+    "source": {
+      "document": "BASAMPLE002 NCFE.pdf",
+      "page": 13
+    }
+  },
+  {
+    "id": "ncfe-002-32",
+    "number": 32,
+    "question": "GDPR regulations apply to which of the following?",
+    "options": [
+      {
+        "id": "A",
+        "text": "People in England, Scotland, Wales and Northern Ireland only."
+      },
+      {
+        "id": "B",
+        "text": "People in the EU and also EU citizens who are are not living in the EU."
+      },
+      {
+        "id": "C",
+        "text": "People living in Commonwealth countries."
+      },
+      {
+        "id": "D",
+        "text": "Any UK citizens living outside of the EU."
+      }
+    ],
+    "answer": "B",
+    "source": {
+      "document": "BASAMPLE002 NCFE.pdf",
+      "page": 13
+    }
+  },
+  {
+    "id": "ncfe-002-33",
+    "number": 33,
+    "question": "During your induction for a new job you are given a laptop and mobile phone to ensure that you can undertake your role. How would the company ensure they keep a record of the equipment they have given out?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Employee details."
+      },
+      {
+        "id": "B",
+        "text": "Equipment list."
+      },
+      {
+        "id": "C",
+        "text": "Employee register."
+      },
+      {
+        "id": "D",
+        "text": "Asset register."
+      }
+    ],
+    "answer": "D",
+    "source": {
+      "document": "BASAMPLE002 NCFE.pdf",
+      "page": 13
+    }
+  },
+  {
+    "id": "ncfe-002-34",
+    "number": 34,
+    "question": "What is the correct definition of the term \"market forces\"?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The requirements needed to be met for the sale of products and services."
+      },
+      {
+        "id": "B",
+        "text": "The economic factors affecting the price of, demand for, and availability of a commodity."
+      },
+      {
+        "id": "C",
+        "text": "A network between a company, its suppliers and customers, to produce and distribute a specific product."
+      },
+      {
+        "id": "D",
+        "text": "Ensuring the right information gets to the right person that has the knowledge of the regulation."
+      }
+    ],
+    "answer": "B",
+    "source": {
+      "document": "BASAMPLE002 NCFE.pdf",
+      "page": 14
+    }
+  },
+  {
+    "id": "ncfe-002-35",
+    "number": 35,
+    "question": "Which of the below is one of the first stages of effectively managing change?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Determine impact and those affected."
+      },
+      {
+        "id": "B",
+        "text": "Develop a framework for managing change."
+      },
+      {
+        "id": "C",
+        "text": "Implement a budget schedule."
+      },
+      {
+        "id": "D",
+        "text": "Look at previous years' business goals."
+      }
+    ],
+    "answer": "A",
+    "source": {
+      "document": "BASAMPLE002 NCFE.pdf",
+      "page": 14
+    }
+  },
+  {
+    "id": "ncfe-002-36",
+    "number": 36,
+    "question": "Which one of the outcomes below is most likely to have come from effective management?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Whole company working together towards an agreed target."
+      },
+      {
+        "id": "B",
+        "text": "Staff members working isolated from their colleagues."
+      },
+      {
+        "id": "C",
+        "text": "Successful results without any quantifiable data."
+      },
+      {
+        "id": "D",
+        "text": "Large amount of ideas from only one area of the company."
+      }
+    ],
+    "answer": "A",
+    "source": {
+      "document": "BASAMPLE002 NCFE.pdf",
+      "page": 14
+    }
+  },
+  {
+    "id": "ncfe-002-37",
+    "number": 37,
+    "question": "What rights to breaks do workers have under employment law?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The right to one uninterrupted 20 minute rest break during their working day, if they work more than 6 hours a day and also a lunch break of 30 minutes."
+      },
+      {
+        "id": "B",
+        "text": "The right to two uninterrupted 20 minute rest break during their normal working day, if they work more than 6 hours a day, one of which must be a lunch break."
+      },
+      {
+        "id": "C",
+        "text": "The right to one uninterrupted 20 minute rest break during their working day, if they work more than 6 hours a day. This could be a tea or lunch break."
+      },
+      {
+        "id": "D",
+        "text": "The right to an uninterrupted break for 60 minutes taken when business allows to make available for a meal."
+      }
+    ],
+    "answer": "C",
+    "source": {
+      "document": "BASAMPLE002 NCFE.pdf",
+      "page": 15
+    }
+  },
+  {
+    "id": "ncfe-002-38",
+    "number": 38,
+    "question": "You have new local competitors within your industry and you have decided to look into this. What tool could you use?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Competitor comparison."
+      },
+      {
+        "id": "B",
+        "text": "Competitor analysis."
+      },
+      {
+        "id": "C",
+        "text": "Competitor relations."
+      },
+      {
+        "id": "D",
+        "text": "Competitor portfolio."
+      }
+    ],
+    "answer": "B",
+    "source": {
+      "document": "BASAMPLE002 NCFE.pdf",
+      "page": 15
+    }
+  },
+  {
+    "id": "ncfe-002-39",
+    "number": 39,
+    "question": "Identifying a problem is the first step in:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Consulting stakeholders."
+      },
+      {
+        "id": "B",
+        "text": "Business financing."
+      },
+      {
+        "id": "C",
+        "text": "Managing change."
+      },
+      {
+        "id": "D",
+        "text": "Costing resources."
+      }
+    ],
+    "answer": "C",
+    "source": {
+      "document": "BASAMPLE002 NCFE.pdf",
+      "page": 15
+    }
+  },
+  {
+    "id": "ncfe-002-40",
+    "number": 40,
+    "question": "Which of these best describes project management?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The management of resources towards a specific goal, within budget and ensuring all teams work together to deliver the goal on time."
+      },
+      {
+        "id": "B",
+        "text": "The delivery of a range of goals ensuring all teams within the organisation are involved and developing people skills as you go."
+      },
+      {
+        "id": "C",
+        "text": "The management of people within the team to ensure team targets are met with the resources available."
+      },
+      {
+        "id": "D",
+        "text": "The practice of initiating, planning, executing, controlling, and closing the work of a team to achieve specific goals and success criteria at the specified time."
+      }
+    ],
+    "answer": "D",
+    "source": {
+      "document": "BASAMPLE002 NCFE.pdf",
+      "page": 16
+    }
+  },
+  {
+    "id": "ncfe-002-41",
+    "number": 41,
+    "question": "How would you assess the impact of stakeholders upon your business?",
+    "options": [
+      {
+        "id": "A",
+        "text": "You need to know what they do and how many staff members they have."
+      },
+      {
+        "id": "B",
+        "text": "You need to know who they are and how they relate to your business."
+      },
+      {
+        "id": "C",
+        "text": "You need to know the relationship between your manager and the stakeholder."
+      },
+      {
+        "id": "D",
+        "text": "You need to know what products they have and how much they cost."
+      }
+    ],
+    "answer": "B",
+    "source": {
+      "document": "BASAMPLE002 NCFE.pdf",
+      "page": 16
+    }
+  },
+  {
+    "id": "ncfe-002-42",
+    "number": 42,
+    "question": "A financial audit has found there is overspending in the organisation. Which one of these could be an internal process to manage costs?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Reduction in suppliers."
+      },
+      {
+        "id": "B",
+        "text": "Changing staff facilities."
+      },
+      {
+        "id": "C",
+        "text": "Income vs expenditure."
+      },
+      {
+        "id": "D",
+        "text": "Purchase order."
+      }
+    ],
+    "answer": "D",
+    "source": {
+      "document": "BASAMPLE002 NCFE.pdf",
+      "page": 16
+    }
+  },
+  {
+    "id": "ncfe-002-43",
+    "number": 43,
+    "question": "You have been asked to process the mileage claims for a sales event. What policy would you follow?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Procurement policy."
+      },
+      {
+        "id": "B",
+        "text": "Data Protection policy."
+      },
+      {
+        "id": "C",
+        "text": "Expenses policy."
+      },
+      {
+        "id": "D",
+        "text": "Payments policy."
+      }
+    ],
+    "answer": "C",
+    "source": {
+      "document": "BASAMPLE002 NCFE.pdf",
+      "page": 17
+    }
+  },
+  {
+    "id": "ncfe-002-44",
+    "number": 44,
+    "question": "You are managing the stationary stock for the department. What form would you need to complete to order more stock?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Stock requisition."
+      },
+      {
+        "id": "B",
+        "text": "Stock limit order."
+      },
+      {
+        "id": "C",
+        "text": "Stock credit."
+      },
+      {
+        "id": "D",
+        "text": "Stock transaction."
+      }
+    ],
+    "answer": "A",
+    "source": {
+      "document": "BASAMPLE002 NCFE.pdf",
+      "page": 17
+    }
+  },
+  {
+    "id": "ncfe-002-45",
+    "number": 45,
+    "question": "You have been asked to plan resources within a project. What is resource planning within a project?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Planning what materials are needed for a project."
+      },
+      {
+        "id": "B",
+        "text": "Determining what people, equipment, materials, and what quantities of each are needed to perform project activities."
+      },
+      {
+        "id": "C",
+        "text": "Determining what people and departments are required for each project milestone."
+      },
+      {
+        "id": "D",
+        "text": "Determining how resources can be minimised throughout a project to reduce costs."
+      }
+    ],
+    "answer": "B",
+    "source": {
+      "document": "BASAMPLE002 NCFE.pdf",
+      "page": 17
+    }
+  },
+  {
+    "id": "ncfe-002-46",
+    "number": 46,
+    "question": "Tabitha is looking at her recruitment business for an annual review. Which one of the findings below would make it necessary that she applies the principle for change management?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Business losing money."
+      },
+      {
+        "id": "B",
+        "text": "Lack of staff morale."
+      },
+      {
+        "id": "C",
+        "text": "Increased number of staff members."
+      },
+      {
+        "id": "D",
+        "text": "Lack of expense claims."
+      }
+    ],
+    "answer": "A",
+    "source": {
+      "document": "BASAMPLE002 NCFE.pdf",
+      "page": 18
+    }
+  },
+  {
+    "id": "ncfe-002-47",
+    "number": 47,
+    "question": "Organisations need to ensure they follow GDPR guidelines. What does GDPR stand for?",
+    "options": [
+      {
+        "id": "A",
+        "text": "General Data Processing Regulations."
+      },
+      {
+        "id": "B",
+        "text": "General Data Production Regulation."
+      },
+      {
+        "id": "C",
+        "text": "General Data Protection Regulation."
+      },
+      {
+        "id": "D",
+        "text": "General Data Protection Rule."
+      }
+    ],
+    "answer": "C",
+    "source": {
+      "document": "BASAMPLE002 NCFE.pdf",
+      "page": 18
+    }
+  },
+  {
+    "id": "ncfe-002-48",
+    "number": 48,
+    "question": "Which one of the phrases below are you likely to come across with regards to business finance?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Transactional analysis."
+      },
+      {
+        "id": "B",
+        "text": "Debt factoring."
+      },
+      {
+        "id": "C",
+        "text": "Employee targets."
+      },
+      {
+        "id": "D",
+        "text": "Imperfect competition."
+      }
+    ],
+    "answer": "B",
+    "source": {
+      "document": "BASAMPLE002 NCFE.pdf",
+      "page": 18
+    }
+  },
+  {
+    "id": "ncfe-002-49",
+    "number": 49,
+    "question": "You are managing a networking event for a large amount of stakeholders. What would be the most efficient way to communicate invitations?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Email each stakeholder a personal email."
+      },
+      {
+        "id": "B",
+        "text": "Call each stakeholder by phone."
+      },
+      {
+        "id": "C",
+        "text": "Post invitations with RSVP."
+      },
+      {
+        "id": "D",
+        "text": "Email from mail merge."
+      }
+    ],
+    "answer": "D",
+    "source": {
+      "document": "BASAMPLE002 NCFE.pdf",
+      "page": 19
+    }
+  },
+  {
+    "id": "ncfe-002-50",
+    "number": 50,
+    "question": "You have been asked to take responsibility for managing risk within a project. Which one of these is a risk management tool?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Risk action plan."
+      },
+      {
+        "id": "B",
+        "text": "Risk timetable."
+      },
+      {
+        "id": "C",
+        "text": "Risk register."
+      },
+      {
+        "id": "D",
+        "text": "Risk chart."
+      }
+    ],
+    "answer": "C",
+    "source": {
+      "document": "BASAMPLE002 NCFE.pdf",
+      "page": 19
+    }
+  }
+]

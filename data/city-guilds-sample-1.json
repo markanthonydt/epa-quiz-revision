@@ -1,0 +1,1552 @@
+[
+  {
+    "id": "city-guilds-1-01",
+    "paperId": "city-guilds-1",
+    "number": 1,
+    "topic": "The Organisation",
+    "question": "A mission statement contains an organisation's",
+    "options": [
+      {
+        "id": "A",
+        "text": "deadlines and targets"
+      },
+      {
+        "id": "B",
+        "text": "identity and purpose"
+      },
+      {
+        "id": "C",
+        "text": "operational plan"
+      },
+      {
+        "id": "D",
+        "text": "diversity policy."
+      }
+    ],
+    "answer": "B",
+    "source": {
+      "document": "CG BAL3 practice test 1.pdf",
+      "page": 1,
+      "answerKeyDocument": "EPA practice paper 1 (answers).docx"
+    }
+  },
+  {
+    "id": "city-guilds-1-02",
+    "paperId": "city-guilds-1",
+    "number": 2,
+    "topic": "The Organisation",
+    "question": "It is important for an organisation to have a mission statement to",
+    "options": [
+      {
+        "id": "A",
+        "text": "inform stakeholders"
+      },
+      {
+        "id": "B",
+        "text": "set boundaries"
+      },
+      {
+        "id": "C",
+        "text": "allocate budget"
+      },
+      {
+        "id": "D",
+        "text": "ensure viability."
+      }
+    ],
+    "answer": "A",
+    "source": {
+      "document": "CG BAL3 practice test 1.pdf",
+      "page": 1,
+      "answerKeyDocument": "EPA practice paper 1 (answers).docx"
+    }
+  },
+  {
+    "id": "city-guilds-1-03",
+    "paperId": "city-guilds-1",
+    "number": 3,
+    "topic": "The Organisation",
+    "question": "Why is it important to have an environmental business objective?",
+    "options": [
+      {
+        "id": "A",
+        "text": "To address government targets."
+      },
+      {
+        "id": "B",
+        "text": "To reduce staff turnover."
+      },
+      {
+        "id": "C",
+        "text": "To keep customer base."
+      },
+      {
+        "id": "D",
+        "text": "To be competitive."
+      }
+    ],
+    "answer": "A",
+    "source": {
+      "document": "CG BAL3 practice test 1.pdf",
+      "page": 1,
+      "answerKeyDocument": "EPA practice paper 1 (answers).docx"
+    }
+  },
+  {
+    "id": "city-guilds-1-04",
+    "paperId": "city-guilds-1",
+    "number": 4,
+    "topic": "The Organisation",
+    "question": "What is the purpose of organisational aims and objectives?",
+    "options": [
+      {
+        "id": "A",
+        "text": "To prevent takeovers."
+      },
+      {
+        "id": "B",
+        "text": "To provide direction to staff."
+      },
+      {
+        "id": "C",
+        "text": "To set staff limits of authority."
+      },
+      {
+        "id": "D",
+        "text": "To give a brief overview of ideas."
+      }
+    ],
+    "answer": "B",
+    "source": {
+      "document": "CG BAL3 practice test 1.pdf",
+      "page": 1,
+      "answerKeyDocument": "EPA practice paper 1 (answers).docx"
+    }
+  },
+  {
+    "id": "city-guilds-1-05",
+    "paperId": "city-guilds-1",
+    "number": 5,
+    "topic": "External Factors",
+    "question": "How can the financial market impact on the cost of trading overseas?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Labour force needs to be paid less as prices increase."
+      },
+      {
+        "id": "B",
+        "text": "When demand is low products are more expensive."
+      },
+      {
+        "id": "C",
+        "text": "Prices can increase with deflation."
+      },
+      {
+        "id": "D",
+        "text": "Currencies can rise and fall."
+      }
+    ],
+    "answer": "D",
+    "source": {
+      "document": "CG BAL3 practice test 1.pdf",
+      "page": 1,
+      "answerKeyDocument": "EPA practice paper 1 (answers).docx"
+    }
+  },
+  {
+    "id": "city-guilds-1-06",
+    "paperId": "city-guilds-1",
+    "number": 6,
+    "topic": "External Factors",
+    "question": "What is likely to be the strongest influence on where a company is located?",
+    "options": [
+      {
+        "id": "A",
+        "text": "attractive surroundings"
+      },
+      {
+        "id": "B",
+        "text": "skilled labour"
+      },
+      {
+        "id": "C",
+        "text": "local facilities"
+      },
+      {
+        "id": "D",
+        "text": "incentives."
+      }
+    ],
+    "answer": "B",
+    "source": {
+      "document": "CG BAL3 practice test 1.pdf",
+      "page": 2,
+      "answerKeyDocument": "EPA practice paper 1 (answers).docx"
+    }
+  },
+  {
+    "id": "city-guilds-1-07",
+    "paperId": "city-guilds-1",
+    "number": 7,
+    "topic": "External Factors",
+    "question": "How might a delay in the supply chain affect the organisation's ability to meet the needs of their customers?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Equipment is overused."
+      },
+      {
+        "id": "B",
+        "text": "Equipment becomes redundant."
+      },
+      {
+        "id": "C",
+        "text": "Products will not delivered on time."
+      },
+      {
+        "id": "D",
+        "text": "Products will become more expensive."
+      }
+    ],
+    "answer": "C",
+    "source": {
+      "document": "CG BAL3 practice test 1.pdf",
+      "page": 2,
+      "answerKeyDocument": "EPA practice paper 1 (answers).docx"
+    }
+  },
+  {
+    "id": "city-guilds-1-08",
+    "paperId": "city-guilds-1",
+    "number": 8,
+    "topic": "External Factors",
+    "question": "What is the likely impact of the complaints department administrator being absent?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Customers will be contacted personally."
+      },
+      {
+        "id": "B",
+        "text": "Customers will be offered compensation automatically."
+      },
+      {
+        "id": "C",
+        "text": "Complaints will not be dealt with in-line with the company policy."
+      },
+      {
+        "id": "D",
+        "text": "Complaints will not be dealt with until the member of staff returns."
+      }
+    ],
+    "answer": "C",
+    "source": {
+      "document": "CG BAL3 practice test 1.pdf",
+      "page": 2,
+      "answerKeyDocument": "EPA practice paper 1 (answers).docx"
+    }
+  },
+  {
+    "id": "city-guilds-1-09",
+    "paperId": "city-guilds-1",
+    "number": 9,
+    "topic": "External Factors",
+    "question": "What is the likely impact on an organisation if external IT support is bought out by another company?",
+    "options": [
+      {
+        "id": "A",
+        "text": "IT support is briefly unavailable."
+      },
+      {
+        "id": "B",
+        "text": "IT support is not impacted."
+      },
+      {
+        "id": "C",
+        "text": "IT support is withdrawn."
+      },
+      {
+        "id": "D",
+        "text": "IT support is improved."
+      }
+    ],
+    "answer": "A",
+    "source": {
+      "document": "CG BAL3 practice test 1.pdf",
+      "page": 2,
+      "answerKeyDocument": "EPA practice paper 1 (answers).docx"
+    }
+  },
+  {
+    "id": "city-guilds-1-10",
+    "paperId": "city-guilds-1",
+    "number": 10,
+    "topic": "Legislation",
+    "question": "Confidential data must be stored to comply with which type of Government control?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Local."
+      },
+      {
+        "id": "B",
+        "text": "Regional."
+      },
+      {
+        "id": "C",
+        "text": "National."
+      },
+      {
+        "id": "D",
+        "text": "Global."
+      }
+    ],
+    "answer": "C",
+    "source": {
+      "document": "CG BAL3 practice test 1.pdf",
+      "page": 2,
+      "answerKeyDocument": "EPA practice paper 1 (answers).docx"
+    }
+  },
+  {
+    "id": "city-guilds-1-11",
+    "paperId": "city-guilds-1",
+    "number": 11,
+    "topic": "External Factors",
+    "question": "The 'T' in PESTLE stands for",
+    "options": [
+      {
+        "id": "A",
+        "text": "Technological"
+      },
+      {
+        "id": "B",
+        "text": "Turnover"
+      },
+      {
+        "id": "C",
+        "text": "Threats"
+      },
+      {
+        "id": "D",
+        "text": "Time."
+      }
+    ],
+    "answer": "A",
+    "source": {
+      "document": "CG BAL3 practice test 1.pdf",
+      "page": 2,
+      "answerKeyDocument": "EPA practice paper 1 (answers).docx"
+    }
+  },
+  {
+    "id": "city-guilds-1-12",
+    "paperId": "city-guilds-1",
+    "number": 12,
+    "topic": "Change Management",
+    "question": "What is the likely impact of involving all staff in managing change?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Staff can affect the overall decision of the changes taking place."
+      },
+      {
+        "id": "B",
+        "text": "Staff are more receptive to the changes being made."
+      },
+      {
+        "id": "C",
+        "text": "Staff can stop the changes taking place."
+      },
+      {
+        "id": "D",
+        "text": "Staff feel threatened by the changes."
+      }
+    ],
+    "answer": "B",
+    "source": {
+      "document": "CG BAL3 practice test 1.pdf",
+      "page": 3,
+      "answerKeyDocument": "EPA practice paper 1 (answers).docx"
+    }
+  },
+  {
+    "id": "city-guilds-1-13",
+    "paperId": "city-guilds-1",
+    "number": 13,
+    "topic": "Change Management",
+    "question": "Which of the following is the main reason for communicating change within an organisation?",
+    "options": [
+      {
+        "id": "A",
+        "text": "So that the message can be passed down the line of command."
+      },
+      {
+        "id": "B",
+        "text": "Everyone needs to know how the change will impact them."
+      },
+      {
+        "id": "C",
+        "text": "So that the message can be passed down to customers."
+      },
+      {
+        "id": "D",
+        "text": "Everyone will want to make their opinion known."
+      }
+    ],
+    "answer": "B",
+    "source": {
+      "document": "CG BAL3 practice test 1.pdf",
+      "page": 3,
+      "answerKeyDocument": "EPA practice paper 1 (answers).docx"
+    }
+  },
+  {
+    "id": "city-guilds-1-14",
+    "paperId": "city-guilds-1",
+    "number": 14,
+    "topic": "Change Management",
+    "question": "Which of the following is not a principle of change management?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Assess and adapt."
+      },
+      {
+        "id": "B",
+        "text": "Consider solutions."
+      },
+      {
+        "id": "C",
+        "text": "Start and lead from the top."
+      },
+      {
+        "id": "D",
+        "text": "Involve senior management only."
+      }
+    ],
+    "answer": "D",
+    "source": {
+      "document": "CG BAL3 practice test 1.pdf",
+      "page": 3,
+      "answerKeyDocument": "EPA practice paper 1 (answers).docx"
+    }
+  },
+  {
+    "id": "city-guilds-1-15",
+    "paperId": "city-guilds-1",
+    "number": 15,
+    "topic": "Change Management",
+    "question": "What is the most likely impact of the purchase of a new printer not compatible with the present operating software?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Another printer will have to be ordered."
+      },
+      {
+        "id": "B",
+        "text": "The operating system will have to be updated."
+      },
+      {
+        "id": "C",
+        "text": "All print jobs will have to go through a new computer."
+      },
+      {
+        "id": "D",
+        "text": "The IT department will need more staff to deal with the problem."
+      }
+    ],
+    "answer": "B",
+    "source": {
+      "document": "CG BAL3 practice test 1.pdf",
+      "page": 3,
+      "answerKeyDocument": "EPA practice paper 1 (answers).docx"
+    }
+  },
+  {
+    "id": "city-guilds-1-16",
+    "paperId": "city-guilds-1",
+    "number": 16,
+    "topic": "Change Management",
+    "question": "Who is most likely to be affected by the introduction of an automatic route selection telephone system?",
+    "options": [
+      {
+        "id": "A",
+        "text": "International suppliers."
+      },
+      {
+        "id": "B",
+        "text": "Senior management."
+      },
+      {
+        "id": "C",
+        "text": "Customer relations."
+      },
+      {
+        "id": "D",
+        "text": "Incoming callers."
+      }
+    ],
+    "answer": "D",
+    "source": {
+      "document": "CG BAL3 practice test 1.pdf",
+      "page": 3,
+      "answerKeyDocument": "EPA practice paper 1 (answers).docx"
+    }
+  },
+  {
+    "id": "city-guilds-1-17",
+    "paperId": "city-guilds-1",
+    "number": 17,
+    "topic": "External Factors",
+    "question": "An organisation's production has been moved to another country. What impact would this have on the administrator role?",
+    "options": [
+      {
+        "id": "A",
+        "text": "There is no impact on the role."
+      },
+      {
+        "id": "B",
+        "text": "Staff may have to start working staggered shifts."
+      },
+      {
+        "id": "C",
+        "text": "Time differences may need to be taken into account."
+      },
+      {
+        "id": "D",
+        "text": "Phone calls may have to be made by someone that speaks the language."
+      }
+    ],
+    "answer": "C",
+    "source": {
+      "document": "CG BAL3 practice test 1.pdf",
+      "page": 3,
+      "answerKeyDocument": "EPA practice paper 1 (answers).docx"
+    }
+  },
+  {
+    "id": "city-guilds-1-18",
+    "paperId": "city-guilds-1",
+    "number": 18,
+    "topic": "Business Fundamentals",
+    "question": "When customer payments are required what document is sent by the administrator?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A receipt."
+      },
+      {
+        "id": "B",
+        "text": "An invoice."
+      },
+      {
+        "id": "C",
+        "text": "A credit note."
+      },
+      {
+        "id": "D",
+        "text": "A statement."
+      }
+    ],
+    "answer": "B",
+    "source": {
+      "document": "CG BAL3 practice test 1.pdf",
+      "page": 4,
+      "answerKeyDocument": "EPA practice paper 1 (answers).docx"
+    }
+  },
+  {
+    "id": "city-guilds-1-19",
+    "paperId": "city-guilds-1",
+    "number": 19,
+    "topic": "Business Fundamentals",
+    "question": "What method of payment is most likely to be used between businesses?",
+    "options": [
+      {
+        "id": "A",
+        "text": "BACS."
+      },
+      {
+        "id": "B",
+        "text": "Cheque."
+      },
+      {
+        "id": "C",
+        "text": "Cash on delivery."
+      },
+      {
+        "id": "D",
+        "text": "Exchange of goods."
+      }
+    ],
+    "answer": "A",
+    "source": {
+      "document": "CG BAL3 practice test 1.pdf",
+      "page": 4,
+      "answerKeyDocument": "EPA practice paper 1 (answers).docx"
+    }
+  },
+  {
+    "id": "city-guilds-1-20",
+    "paperId": "city-guilds-1",
+    "number": 20,
+    "topic": "Business Fundamentals",
+    "question": "Which document is issued by a buyer to a seller, indicating types, quantities and agreed prices for products or services?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Purchase order."
+      },
+      {
+        "id": "B",
+        "text": "Purchase ledger."
+      },
+      {
+        "id": "C",
+        "text": "Purchase invoice."
+      },
+      {
+        "id": "D",
+        "text": "Purchase requisition."
+      }
+    ],
+    "answer": "A",
+    "source": {
+      "document": "CG BAL3 practice test 1.pdf",
+      "page": 4,
+      "answerKeyDocument": "EPA practice paper 1 (answers).docx"
+    }
+  },
+  {
+    "id": "city-guilds-1-21",
+    "paperId": "city-guilds-1",
+    "number": 21,
+    "topic": "Business Fundamentals",
+    "question": "Which of the following explains how petty cash is usually handled?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A small amount of money, managed by senior management, to make small purchases which must be balanced with a receipt."
+      },
+      {
+        "id": "B",
+        "text": "A large amount of money, managed by a custodian, to reimburse purchases when balanced with a receipt."
+      },
+      {
+        "id": "C",
+        "text": "A small amount of money, managed by a custodian, to reimburse purchases when balanced with a receipt."
+      },
+      {
+        "id": "D",
+        "text": "A large amount of money, managed by senior management, to make small purchases without proof of purchase."
+      }
+    ],
+    "answer": "C",
+    "source": {
+      "document": "CG BAL3 practice test 1.pdf",
+      "page": 4,
+      "answerKeyDocument": "EPA practice paper 1 (answers).docx"
+    }
+  },
+  {
+    "id": "city-guilds-1-22",
+    "paperId": "city-guilds-1",
+    "number": 22,
+    "topic": "Legislation",
+    "question": "Which of the following would be deemed to be personal data therefore confidential?",
+    "options": [
+      {
+        "id": "A",
+        "text": "John Smith."
+      },
+      {
+        "id": "B",
+        "text": "39 Stroud Road, Capel Common, KW16 8TY."
+      },
+      {
+        "id": "C",
+        "text": "J Smith; 39 Stroud Road, Capel Common, KW16 8TY."
+      },
+      {
+        "id": "D",
+        "text": "John Smith Jr; 39 Stroud Road, Capel Common, KW16 8TY."
+      }
+    ],
+    "answer": "D",
+    "source": {
+      "document": "CG BAL3 practice test 1.pdf",
+      "page": 4,
+      "answerKeyDocument": "EPA practice paper 1 (answers).docx"
+    }
+  },
+  {
+    "id": "city-guilds-1-23",
+    "paperId": "city-guilds-1",
+    "number": 23,
+    "topic": "Legislation",
+    "question": "Information which complies with data protection regulation can be stored",
+    "options": [
+      {
+        "id": "A",
+        "text": "anywhere"
+      },
+      {
+        "id": "B",
+        "text": "securely within the UK"
+      },
+      {
+        "id": "C",
+        "text": "in an unsecured filing cabinet"
+      },
+      {
+        "id": "D",
+        "text": "securely on a server located in Japan."
+      }
+    ],
+    "answer": "B",
+    "source": {
+      "document": "CG BAL3 practice test 1.pdf",
+      "page": 5,
+      "answerKeyDocument": "EPA practice paper 1 (answers).docx"
+    }
+  },
+  {
+    "id": "city-guilds-1-24",
+    "paperId": "city-guilds-1",
+    "number": 24,
+    "topic": "Legislation",
+    "question": "The main purpose of data protection regulation is to",
+    "options": [
+      {
+        "id": "A",
+        "text": "protect individuals against the misuse of information about them"
+      },
+      {
+        "id": "B",
+        "text": "disguise the data of individuals so that it cannot be misused"
+      },
+      {
+        "id": "C",
+        "text": "store data in an electronic form"
+      },
+      {
+        "id": "D",
+        "text": "store data safely."
+      }
+    ],
+    "answer": "A",
+    "source": {
+      "document": "CG BAL3 practice test 1.pdf",
+      "page": 5,
+      "answerKeyDocument": "EPA practice paper 1 (answers).docx"
+    }
+  },
+  {
+    "id": "city-guilds-1-25",
+    "paperId": "city-guilds-1",
+    "number": 25,
+    "topic": "Legislation",
+    "question": "Why is it important to consider data protection in an organisation's staff induction?",
+    "options": [
+      {
+        "id": "A",
+        "text": "To comply with regulatory requirements."
+      },
+      {
+        "id": "B",
+        "text": "To understand the use of MIS software."
+      },
+      {
+        "id": "C",
+        "text": "To comply with health and safety regulation."
+      },
+      {
+        "id": "D",
+        "text": "To understand the need for discretion."
+      }
+    ],
+    "answer": "A",
+    "source": {
+      "document": "CG BAL3 practice test 1.pdf",
+      "page": 5,
+      "answerKeyDocument": "EPA practice paper 1 (answers).docx"
+    }
+  },
+  {
+    "id": "city-guilds-1-26",
+    "paperId": "city-guilds-1",
+    "number": 26,
+    "topic": "Legislation",
+    "question": "What does the first 'D' stand for in RIDDOR?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Disasters."
+      },
+      {
+        "id": "B",
+        "text": "Dangers."
+      },
+      {
+        "id": "C",
+        "text": "Diseases."
+      },
+      {
+        "id": "D",
+        "text": "Death."
+      }
+    ],
+    "answer": "C",
+    "source": {
+      "document": "CG BAL3 practice test 1.pdf",
+      "page": 5,
+      "answerKeyDocument": "EPA practice paper 1 (answers).docx"
+    }
+  },
+  {
+    "id": "city-guilds-1-27",
+    "paperId": "city-guilds-1",
+    "number": 27,
+    "topic": "Legislation",
+    "question": "What is the main reason health and safety 'near misses' should be recorded?",
+    "options": [
+      {
+        "id": "A",
+        "text": "To assess risks involved in work activities."
+      },
+      {
+        "id": "B",
+        "text": "To show that nobody was hurt."
+      },
+      {
+        "id": "C",
+        "text": "Because it is company policy."
+      },
+      {
+        "id": "D",
+        "text": "Because it is good practice."
+      }
+    ],
+    "answer": "A",
+    "source": {
+      "document": "CG BAL3 practice test 1.pdf",
+      "page": 5,
+      "answerKeyDocument": "EPA practice paper 1 (answers).docx"
+    }
+  },
+  {
+    "id": "city-guilds-1-28",
+    "paperId": "city-guilds-1",
+    "number": 28,
+    "topic": "Legislation",
+    "question": "Who should report instances under RIDDOR when working?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Any individual affected."
+      },
+      {
+        "id": "B",
+        "text": "The receptionist."
+      },
+      {
+        "id": "C",
+        "text": "The employer."
+      },
+      {
+        "id": "D",
+        "text": "Any witness."
+      }
+    ],
+    "answer": "C",
+    "source": {
+      "document": "CG BAL3 practice test 1.pdf",
+      "page": 5,
+      "answerKeyDocument": "EPA practice paper 1 (answers).docx"
+    }
+  },
+  {
+    "id": "city-guilds-1-29",
+    "paperId": "city-guilds-1",
+    "number": 29,
+    "topic": "Legislation",
+    "question": "Why is it important to encourage all staff members to report health and safety hazards?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Risks can be eliminated."
+      },
+      {
+        "id": "B",
+        "text": "Risks can be monitored."
+      },
+      {
+        "id": "C",
+        "text": "Risks can be dismissed."
+      },
+      {
+        "id": "D",
+        "text": "Risks can be analysed."
+      }
+    ],
+    "answer": "D",
+    "source": {
+      "document": "CG BAL3 practice test 1.pdf",
+      "page": 5,
+      "answerKeyDocument": "EPA practice paper 1 (answers).docx"
+    }
+  },
+  {
+    "id": "city-guilds-1-30",
+    "paperId": "city-guilds-1",
+    "number": 30,
+    "topic": "Legislation",
+    "question": "A common health and safety risk experienced within the administration role IS",
+    "options": [
+      {
+        "id": "A",
+        "text": "using heavy machinery"
+      },
+      {
+        "id": "B",
+        "text": "slips, trips and falls"
+      },
+      {
+        "id": "C",
+        "text": "driving"
+      },
+      {
+        "id": "D",
+        "text": "noise."
+      }
+    ],
+    "answer": "B",
+    "source": {
+      "document": "CG BAL3 practice test 1.pdf",
+      "page": 6,
+      "answerKeyDocument": "EPA practice paper 1 (answers).docx"
+    }
+  },
+  {
+    "id": "city-guilds-1-31",
+    "paperId": "city-guilds-1",
+    "number": 31,
+    "topic": "Legislation",
+    "question": "Which is the most effective way of promoting health and safety in the workplace?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Communicate the health and safety policy to all staff."
+      },
+      {
+        "id": "B",
+        "text": "Put health and safety policy posters in restricted areas."
+      },
+      {
+        "id": "C",
+        "text": "Carry out monthly health and safety risk assessments."
+      },
+      {
+        "id": "D",
+        "text": "Give staff rewards for reporting health and safety risks."
+      }
+    ],
+    "answer": "A",
+    "source": {
+      "document": "CG BAL3 practice test 1.pdf",
+      "page": 6,
+      "answerKeyDocument": "EPA practice paper 1 (answers).docx"
+    }
+  },
+  {
+    "id": "city-guilds-1-32",
+    "paperId": "city-guilds-1",
+    "number": 32,
+    "topic": "Stakeholders",
+    "question": "What is the benefit of communicating openly with suppliers as stakeholders?",
+    "options": [
+      {
+        "id": "A",
+        "text": "It builds an understanding of expectations."
+      },
+      {
+        "id": "B",
+        "text": "Makes them feel important."
+      },
+      {
+        "id": "C",
+        "text": "Makes them feel valued."
+      },
+      {
+        "id": "D",
+        "text": "They will give a discount."
+      }
+    ],
+    "answer": "A",
+    "source": {
+      "document": "CG BAL3 practice test 1.pdf",
+      "page": 6,
+      "answerKeyDocument": "EPA practice paper 1 (answers).docx"
+    }
+  },
+  {
+    "id": "city-guilds-1-33",
+    "paperId": "city-guilds-1",
+    "number": 33,
+    "topic": "Stakeholders",
+    "question": "Shareholders may retract their financial investment if",
+    "options": [
+      {
+        "id": "A",
+        "text": "profits increase in the company"
+      },
+      {
+        "id": "B",
+        "text": "customers show an interest in competitors"
+      },
+      {
+        "id": "C",
+        "text": "company's annual performance is not shared"
+      },
+      {
+        "id": "D",
+        "text": "suppliers renew their contracts with the organisation."
+      }
+    ],
+    "answer": "C",
+    "source": {
+      "document": "CG BAL3 practice test 1.pdf",
+      "page": 6,
+      "answerKeyDocument": "EPA practice paper 1 (answers).docx"
+    }
+  },
+  {
+    "id": "city-guilds-1-34",
+    "paperId": "city-guilds-1",
+    "number": 34,
+    "topic": "Stakeholders",
+    "question": "The main reason to manage suppliers as stakeholders is to",
+    "options": [
+      {
+        "id": "A",
+        "text": "ensure the control of costs and availability"
+      },
+      {
+        "id": "B",
+        "text": "control buyers, quality and procedures"
+      },
+      {
+        "id": "C",
+        "text": "control discounts to competitors"
+      },
+      {
+        "id": "D",
+        "text": "ensure control of the process."
+      }
+    ],
+    "answer": "A",
+    "source": {
+      "document": "CG BAL3 practice test 1.pdf",
+      "page": 6,
+      "answerKeyDocument": "EPA practice paper 1 (answers).docx"
+    }
+  },
+  {
+    "id": "city-guilds-1-35",
+    "paperId": "city-guilds-1",
+    "number": 35,
+    "topic": "Stakeholders",
+    "question": "Why is it important to consult with stakeholders before the adoption of new working processes?",
+    "options": [
+      {
+        "id": "A",
+        "text": "To establish budgets."
+      },
+      {
+        "id": "B",
+        "text": "To establish suitability."
+      },
+      {
+        "id": "C",
+        "text": "To ensure the board is satisfied."
+      },
+      {
+        "id": "D",
+        "text": "To ensure complex procedures are in place."
+      }
+    ],
+    "answer": "B",
+    "source": {
+      "document": "CG BAL3 practice test 1.pdf",
+      "page": 7,
+      "answerKeyDocument": "EPA practice paper 1 (answers).docx"
+    }
+  },
+  {
+    "id": "city-guilds-1-36",
+    "paperId": "city-guilds-1",
+    "number": 36,
+    "topic": "Stakeholders",
+    "question": "Why is it important to listen and communicate with all stakeholders?",
+    "options": [
+      {
+        "id": "A",
+        "text": "They have a financial interest in the work being carried out."
+      },
+      {
+        "id": "B",
+        "text": "They may have a suggestion to improve working practices."
+      },
+      {
+        "id": "C",
+        "text": "They are usually managers."
+      },
+      {
+        "id": "D",
+        "text": "They run the company."
+      }
+    ],
+    "answer": "B",
+    "source": {
+      "document": "CG BAL3 practice test 1.pdf",
+      "page": 7,
+      "answerKeyDocument": "EPA practice paper 1 (answers).docx"
+    }
+  },
+  {
+    "id": "city-guilds-1-37",
+    "paperId": "city-guilds-1",
+    "number": 37,
+    "topic": "Stakeholders",
+    "question": "What would be an effective way of managing stakeholders who are resistant to change?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Follow a disciplinary procedure."
+      },
+      {
+        "id": "B",
+        "text": "Provide a loose plan about the strategies."
+      },
+      {
+        "id": "C",
+        "text": "Meet with them regularly to discuss solutions."
+      },
+      {
+        "id": "D",
+        "text": "Send them daily e-mails on the problems arising."
+      }
+    ],
+    "answer": "C",
+    "source": {
+      "document": "CG BAL3 practice test 1.pdf",
+      "page": 7,
+      "answerKeyDocument": "EPA practice paper 1 (answers).docx"
+    }
+  },
+  {
+    "id": "city-guilds-1-38",
+    "paperId": "city-guilds-1",
+    "number": 38,
+    "topic": "Stakeholders",
+    "question": "What is meant by 'stakeholder relationships'?",
+    "options": [
+      {
+        "id": "A",
+        "text": "It is the action of holding work meetings."
+      },
+      {
+        "id": "B",
+        "text": "It is when there is a personal connection."
+      },
+      {
+        "id": "C",
+        "text": "It is the process of creating mutually beneficial connections."
+      },
+      {
+        "id": "D",
+        "text": "It is the meeting of managers to agree how departments work together."
+      }
+    ],
+    "answer": "C",
+    "source": {
+      "document": "CG BAL3 practice test 1.pdf",
+      "page": 7,
+      "answerKeyDocument": "EPA practice paper 1 (answers).docx"
+    }
+  },
+  {
+    "id": "city-guilds-1-39",
+    "paperId": "city-guilds-1",
+    "number": 39,
+    "topic": "Project Management",
+    "question": "Why is it important to recognise risks that may occur when managing projects?",
+    "options": [
+      {
+        "id": "A",
+        "text": "To save money."
+      },
+      {
+        "id": "B",
+        "text": "To control them in advance."
+      },
+      {
+        "id": "C",
+        "text": "To warn others of what is going to happen."
+      },
+      {
+        "id": "D",
+        "text": "To record on the assessment form."
+      }
+    ],
+    "answer": "B",
+    "source": {
+      "document": "CG BAL3 practice test 1.pdf",
+      "page": 7,
+      "answerKeyDocument": "EPA practice paper 1 (answers).docx"
+    }
+  },
+  {
+    "id": "city-guilds-1-40",
+    "paperId": "city-guilds-1",
+    "number": 40,
+    "topic": "Project Management",
+    "question": "When managing a project what are the three main constraints to consider?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Time, cost, scope."
+      },
+      {
+        "id": "B",
+        "text": "Time, staff, equipment."
+      },
+      {
+        "id": "C",
+        "text": "Management, facilities, outcomes."
+      },
+      {
+        "id": "D",
+        "text": "Management, budget, milestones."
+      }
+    ],
+    "answer": "A",
+    "source": {
+      "document": "CG BAL3 practice test 1.pdf",
+      "page": 7,
+      "answerKeyDocument": "EPA practice paper 1 (answers).docx"
+    }
+  },
+  {
+    "id": "city-guilds-1-41",
+    "paperId": "city-guilds-1",
+    "number": 41,
+    "topic": "Project Management",
+    "question": "A potential event which could have a negative effect on a project's objectives describes the",
+    "options": [
+      {
+        "id": "A",
+        "text": "project risk"
+      },
+      {
+        "id": "B",
+        "text": "project log"
+      },
+      {
+        "id": "C",
+        "text": "project opportunity"
+      },
+      {
+        "id": "D",
+        "text": "project contingency plan."
+      }
+    ],
+    "answer": "A",
+    "source": {
+      "document": "CG BAL3 practice test 1.pdf",
+      "page": 8,
+      "answerKeyDocument": "EPA practice paper 1 (answers).docx"
+    }
+  },
+  {
+    "id": "city-guilds-1-42",
+    "paperId": "city-guilds-1",
+    "number": 42,
+    "topic": "Project Management",
+    "question": "What is a product breakdown structure used to plan in a project?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tasks."
+      },
+      {
+        "id": "B",
+        "text": "Time."
+      },
+      {
+        "id": "C",
+        "text": "Resources."
+      },
+      {
+        "id": "D",
+        "text": "Remuneration."
+      }
+    ],
+    "answer": "C",
+    "source": {
+      "document": "CG BAL3 practice test 1.pdf",
+      "page": 8,
+      "answerKeyDocument": "EPA practice paper 1 (answers).docx"
+    }
+  },
+  {
+    "id": "city-guilds-1-43",
+    "paperId": "city-guilds-1",
+    "number": 43,
+    "topic": "Project Management",
+    "question": "Which tool is used to identify the different tasks required when managing a project?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Product breakdown structure."
+      },
+      {
+        "id": "B",
+        "text": "Contingency plan."
+      },
+      {
+        "id": "C",
+        "text": "Risk analysis."
+      },
+      {
+        "id": "D",
+        "text": "Scheduling."
+      }
+    ],
+    "answer": "D",
+    "source": {
+      "document": "CG BAL3 practice test 1.pdf",
+      "page": 8,
+      "answerKeyDocument": "EPA practice paper 1 (answers).docx"
+    }
+  },
+  {
+    "id": "city-guilds-1-44",
+    "paperId": "city-guilds-1",
+    "number": 44,
+    "topic": "Project Management",
+    "question": "What does the work breakdown structure focus on in project management?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Planning."
+      },
+      {
+        "id": "B",
+        "text": "Scoping."
+      },
+      {
+        "id": "C",
+        "text": "Monitoring."
+      },
+      {
+        "id": "D",
+        "text": "Reporting."
+      }
+    ],
+    "answer": "A",
+    "source": {
+      "document": "CG BAL3 practice test 1.pdf",
+      "page": 8,
+      "answerKeyDocument": "EPA practice paper 1 (answers).docx"
+    }
+  },
+  {
+    "id": "city-guilds-1-45",
+    "paperId": "city-guilds-1",
+    "number": 45,
+    "topic": "Project Management",
+    "question": "Who develops a top-down budget?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Procurement team."
+      },
+      {
+        "id": "B",
+        "text": "Administration team."
+      },
+      {
+        "id": "C",
+        "text": "Lower Management team."
+      },
+      {
+        "id": "D",
+        "text": "Senior Management team."
+      }
+    ],
+    "answer": "D",
+    "source": {
+      "document": "CG BAL3 practice test 1.pdf",
+      "page": 8,
+      "answerKeyDocument": "EPA practice paper 1 (answers).docx"
+    }
+  },
+  {
+    "id": "city-guilds-1-46",
+    "paperId": "city-guilds-1",
+    "number": 46,
+    "topic": "Project Management",
+    "question": "How might a budget be agreed when managing a project?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Calculating costs on interest rates."
+      },
+      {
+        "id": "B",
+        "text": "Speculating costs for the entire project."
+      },
+      {
+        "id": "C",
+        "text": "Estimating the cost on a similar past project."
+      },
+      {
+        "id": "D",
+        "text": "Obtaining detailed quotes for each aspect of the job."
+      }
+    ],
+    "answer": "D",
+    "source": {
+      "document": "CG BAL3 practice test 1.pdf",
+      "page": 8,
+      "answerKeyDocument": "EPA practice paper 1 (answers).docx"
+    }
+  },
+  {
+    "id": "city-guilds-1-47",
+    "paperId": "city-guilds-1",
+    "number": 47,
+    "topic": "Project Management",
+    "question": "Why is it important to ensure the necessary equipment is available when managing a project?",
+    "options": [
+      {
+        "id": "A",
+        "text": "It is not possible to get any equipment at late notice."
+      },
+      {
+        "id": "B",
+        "text": "Planning for all equipment increases costs."
+      },
+      {
+        "id": "C",
+        "text": "To ensure delays are minimised."
+      },
+      {
+        "id": "D",
+        "text": "It will save equipment loan cost."
+      }
+    ],
+    "answer": "C",
+    "source": {
+      "document": "CG BAL3 practice test 1.pdf",
+      "page": 9,
+      "answerKeyDocument": "EPA practice paper 1 (answers).docx"
+    }
+  },
+  {
+    "id": "city-guilds-1-48",
+    "paperId": "city-guilds-1",
+    "number": 48,
+    "topic": "Project Management",
+    "question": "What makes a successful project?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Committed team."
+      },
+      {
+        "id": "B",
+        "text": "Inadequate planning."
+      },
+      {
+        "id": "C",
+        "text": "Overspent budget."
+      },
+      {
+        "id": "D",
+        "text": "Laid back leadership."
+      }
+    ],
+    "answer": "A",
+    "source": {
+      "document": "CG BAL3 practice test 1.pdf",
+      "page": 9,
+      "answerKeyDocument": "EPA practice paper 1 (answers).docx"
+    }
+  },
+  {
+    "id": "city-guilds-1-49",
+    "paperId": "city-guilds-1",
+    "number": 49,
+    "topic": "Project Management",
+    "question": "How does closure contribute to project success?",
+    "options": [
+      {
+        "id": "A",
+        "text": "It ensures an under-spend."
+      },
+      {
+        "id": "B",
+        "text": "It ensures resources are re-used."
+      },
+      {
+        "id": "C",
+        "text": "It shows deliverables have been met."
+      },
+      {
+        "id": "D",
+        "text": "It shows that testing has taken place."
+      }
+    ],
+    "answer": "C",
+    "source": {
+      "document": "CG BAL3 practice test 1.pdf",
+      "page": 9,
+      "answerKeyDocument": "EPA practice paper 1 (answers).docx"
+    }
+  },
+  {
+    "id": "city-guilds-1-50",
+    "paperId": "city-guilds-1",
+    "number": 50,
+    "topic": "Project Management",
+    "question": "Which of the following indicates the successful reduction of stationery by 20% within 4 months?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Stationery orders reduced by 22% within 6 months."
+      },
+      {
+        "id": "B",
+        "text": "Stationery orders reduced by 21% within 4 months."
+      },
+      {
+        "id": "C",
+        "text": "Stationery orders reduced by 17% within 4 months."
+      },
+      {
+        "id": "D",
+        "text": "Stationery orders reduced by 15% within 2 months."
+      }
+    ],
+    "answer": "B",
+    "source": {
+      "document": "CG BAL3 practice test 1.pdf",
+      "page": 9,
+      "answerKeyDocument": "EPA practice paper 1 (answers).docx"
+    }
+  }
+]

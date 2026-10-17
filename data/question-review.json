@@ -1,0 +1,55 @@
+{
+  "ncfe-002-09": {
+    "note": "Historical wording: this paper says the National Living Wage applies from age 25. It has applied from age 21 since April 2024. The question's answer about regulatory change is still useful.",
+    "reference": "https://www.gov.uk/government/publications/the-national-minimum-wage-in-2024/the-national-minimum-wage-in-2024"
+  },
+  "ncfe-002-25": {
+    "excludeFromPractice": true,
+    "note": "The supplied key selects PRINCE2, but PRINCE2 is a project-management method, not software. None of these options is a sound answer to the question as written.",
+    "reference": "https://www.finance-ni.gov.uk/articles/implementation-management-monitoring-and-benefits-management"
+  },
+  "ncfe-002-28": {
+    "excludeFromPractice": true,
+    "note": "Several options list identifiers that can be personal data, depending on context. The supplied key's choice is not uniquely correct.",
+    "reference": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/personal-information-what-is-it/what-is-personal-data/what-are-identifiers-and-related-factors"
+  },
+  "ncfe-002-32": {
+    "excludeFromPractice": true,
+    "note": "The supplied key describes EU citizens outside the EU. GDPR territorial scope depends on the processing and organisation, not citizenship alone; the options do not give a sound general rule.",
+    "reference": "https://www.edpb.europa.eu/documents/guideline/guidelines-32018-on-the-territorial-scope-of-the-gdpr-article-3-version-adopted_en"
+  },
+  "city-guilds-1-22": {
+    "excludeFromPractice": true,
+    "note": "The supplied key chooses one name-and-address combination, but another option also combines a name and address. Identifiability depends on context, so this is not a reliable single-answer item.",
+    "reference": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/personal-information-what-is-it/what-is-personal-data/what-are-identifiers-and-related-factors"
+  },
+  "city-guilds-1-23": {
+    "excludeFromPractice": true,
+    "note": "The supplied key implies compliant data must be stored in the UK. UK GDPR permits some overseas transfers, including qualifying transfers to Japan, subject to the applicable rules.",
+    "reference": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/international-transfers/adequacy-regulations/is-the-restricted-transfer-covered-by-adequacy-regulations/"
+  },
+  "city-guilds-1-42": {
+    "excludeFromPractice": true,
+    "note": "The supplied key says a product breakdown structure plans resources. A product breakdown structure maps project deliverables or outputs; resource planning is different.",
+    "reference": "https://www.apm.org.uk/resources/find-a-resource/use-of-product-breakdown-structures-and-work-breakdown-structures/"
+  },
+  "city-guilds-2-08": {
+    "excludeFromPractice": true,
+    "note": "The supplied key says Brexit means increased EU tariffs. That is not a general rule: qualifying UK-EU goods can receive zero tariffs under the Trade and Cooperation Agreement.",
+    "reference": "https://www.gov.uk/guidance/introduction-to-rules-of-origin-and-claiming-duties-when-trading-between-the-uk-and-eu"
+  },
+  "city-guilds-2-19": {
+    "excludeFromPractice": true,
+    "note": "The supplied key says a purchase requisition system is used to allow invoicing. Its main purpose is internal approval before a purchase, so none of these options states the core purpose clearly.",
+    "reference": "https://1prd-dxp.cips.org/intelligence-hub/procurement/purchase-requisition"
+  },
+  "city-guilds-2-36": {
+    "excludeFromPractice": true,
+    "note": "The supplied key selects 'adopting processes', but the question gives no context for why that is the key principle over managing stakeholder risks. Treat this as ambiguous rather than a fact to memorise.",
+    "reference": "https://skillsengland.education.gov.uk/apprenticeship-standards/st0070"
+  },
+  "city-guilds-2-41": {
+    "excludeFromPractice": true,
+    "note": "The options 'track modifications' and 'trail alterations' express essentially the same purpose for a change log. The supplied key is not a reliable single-answer distinction."
+  }
+}

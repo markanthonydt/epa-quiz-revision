@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="EPA Studio">
+  <rect width="512" height="512" rx="112" fill="#153139"/>
+  <rect x="112" y="112" width="288" height="288" rx="88" fill="#e7ad65" transform="rotate(-5 256 256)"/>
+  <text x="256" y="331" text-anchor="middle" fill="#153139" font-family="Georgia,serif" font-size="252" font-weight="700">E</text>
+</svg>

@@ -1,0 +1,1552 @@
+[
+  {
+    "id": "city-guilds-2-01",
+    "paperId": "city-guilds-2",
+    "number": 1,
+    "topic": "The Organisation",
+    "question": "A mission statement is important to staff because it",
+    "options": [
+      {
+        "id": "A",
+        "text": "sets the organisation's purpose"
+      },
+      {
+        "id": "B",
+        "text": "is a statement of performance"
+      },
+      {
+        "id": "C",
+        "text": "sets financial targets"
+      },
+      {
+        "id": "D",
+        "text": "is a plan of action"
+      }
+    ],
+    "answer": "A",
+    "source": {
+      "document": "EPA test 2 with answers.pdf",
+      "page": 5,
+      "answerKeyPage": 15
+    }
+  },
+  {
+    "id": "city-guilds-2-02",
+    "paperId": "city-guilds-2",
+    "number": 2,
+    "topic": "The Organisation",
+    "question": "An organisation's vision statement is most effective if it",
+    "options": [
+      {
+        "id": "A",
+        "text": "is short-term"
+      },
+      {
+        "id": "B",
+        "text": "shows no passion"
+      },
+      {
+        "id": "C",
+        "text": "shows its achievements"
+      },
+      {
+        "id": "D",
+        "text": "has buy-in from employees."
+      }
+    ],
+    "answer": "D",
+    "source": {
+      "document": "EPA test 2 with answers.pdf",
+      "page": 5,
+      "answerKeyPage": 15
+    }
+  },
+  {
+    "id": "city-guilds-2-03",
+    "paperId": "city-guilds-2",
+    "number": 3,
+    "topic": "The Organisation",
+    "question": "Aims and objectives are important to an organisation because they",
+    "options": [
+      {
+        "id": "A",
+        "text": "are not specific"
+      },
+      {
+        "id": "B",
+        "text": "promise outcomes"
+      },
+      {
+        "id": "C",
+        "text": "give a sense of direction"
+      },
+      {
+        "id": "D",
+        "text": "guarantee performance"
+      }
+    ],
+    "answer": "C",
+    "source": {
+      "document": "EPA test 2 with answers.pdf",
+      "page": 5,
+      "answerKeyPage": 15
+    }
+  },
+  {
+    "id": "city-guilds-2-04",
+    "paperId": "city-guilds-2",
+    "number": 4,
+    "topic": "The Organisation",
+    "question": "It is important for an organisation to have clear team aims to",
+    "options": [
+      {
+        "id": "A",
+        "text": "set pay scales"
+      },
+      {
+        "id": "B",
+        "text": "co-ordinate work"
+      },
+      {
+        "id": "C",
+        "text": "encourage promotion"
+      },
+      {
+        "id": "D",
+        "text": "allow transfer of skills."
+      }
+    ],
+    "answer": "B",
+    "source": {
+      "document": "EPA test 2 with answers.pdf",
+      "page": 5,
+      "answerKeyPage": 15
+    }
+  },
+  {
+    "id": "city-guilds-2-05",
+    "paperId": "city-guilds-2",
+    "number": 5,
+    "topic": "External Factors",
+    "question": "What is the effect of a labour market skills gap on organisations?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Prices will rise"
+      },
+      {
+        "id": "B",
+        "text": "Salaries will increase."
+      },
+      {
+        "id": "C",
+        "text": "Individuals will emigrate"
+      },
+      {
+        "id": "D",
+        "text": "Job descriptions will change"
+      }
+    ],
+    "answer": "B",
+    "source": {
+      "document": "EPA test 2 with answers.pdf",
+      "page": 5,
+      "answerKeyPage": 15
+    }
+  },
+  {
+    "id": "city-guilds-2-06",
+    "paperId": "city-guilds-2",
+    "number": 6,
+    "topic": "External Factors",
+    "question": "What is the effect on business of a fluctuating stock market?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Consumer confidence will be affected."
+      },
+      {
+        "id": "B",
+        "text": "Targets will be met more easily."
+      },
+      {
+        "id": "C",
+        "text": "New opportunities will increase."
+      },
+      {
+        "id": "D",
+        "text": "Sales figures will improve."
+      }
+    ],
+    "answer": "A",
+    "source": {
+      "document": "EPA test 2 with answers.pdf",
+      "page": 5,
+      "answerKeyPage": 15
+    }
+  },
+  {
+    "id": "city-guilds-2-07",
+    "paperId": "city-guilds-2",
+    "number": 7,
+    "topic": "Legislation",
+    "question": "How does a change in data protection affect business?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Policies and procedures have to be changed"
+      },
+      {
+        "id": "B",
+        "text": "All documentation has to be altered"
+      },
+      {
+        "id": "C",
+        "text": "Customers' details have to be deleted"
+      },
+      {
+        "id": "D",
+        "text": "All information has to be rerouted"
+      }
+    ],
+    "answer": "A",
+    "source": {
+      "document": "EPA test 2 with answers.pdf",
+      "page": 6,
+      "answerKeyPage": 15
+    }
+  },
+  {
+    "id": "city-guilds-2-08",
+    "paperId": "city-guilds-2",
+    "number": 8,
+    "topic": "External Factors",
+    "question": "What is the most likely effect of Brexit on organisations in the UK?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Growth in immigration demand."
+      },
+      {
+        "id": "B",
+        "text": "Improved business language skills"
+      },
+      {
+        "id": "C",
+        "text": "Worsening trade with the rest of the world."
+      },
+      {
+        "id": "D",
+        "text": "Increased tariffs from the European Union"
+      }
+    ],
+    "answer": "D",
+    "source": {
+      "document": "EPA test 2 with answers.pdf",
+      "page": 6,
+      "answerKeyPage": 15
+    }
+  },
+  {
+    "id": "city-guilds-2-09",
+    "paperId": "city-guilds-2",
+    "number": 9,
+    "topic": "External Factors",
+    "question": "What is the main impact of a stable supply chain on an organisation?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Stock will vary"
+      },
+      {
+        "id": "B",
+        "text": "Prices will rise."
+      },
+      {
+        "id": "C",
+        "text": "Targets are set."
+      },
+      {
+        "id": "D",
+        "text": "Orders are met."
+      }
+    ],
+    "answer": "D",
+    "source": {
+      "document": "EPA test 2 with answers.pdf",
+      "page": 6,
+      "answerKeyPage": 15
+    }
+  },
+  {
+    "id": "city-guilds-2-10",
+    "paperId": "city-guilds-2",
+    "number": 10,
+    "topic": "Legislation",
+    "question": "Income taxes within Great Britain are set by which level of government?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Local."
+      },
+      {
+        "id": "B",
+        "text": "Regional."
+      },
+      {
+        "id": "C",
+        "text": "National."
+      },
+      {
+        "id": "D",
+        "text": "International."
+      }
+    ],
+    "answer": "C",
+    "source": {
+      "document": "EPA test 2 with answers.pdf",
+      "page": 6,
+      "answerKeyPage": 15
+    }
+  },
+  {
+    "id": "city-guilds-2-11",
+    "paperId": "city-guilds-2",
+    "number": 11,
+    "topic": "External Factors",
+    "question": "A PESTLE analysis is used to analyse and monitor the",
+    "options": [
+      {
+        "id": "A",
+        "text": "effect of new policies and procedures"
+      },
+      {
+        "id": "B",
+        "text": "results of an organisation's sales campaign"
+      },
+      {
+        "id": "C",
+        "text": "impact of specific factors on an organisation"
+      },
+      {
+        "id": "D",
+        "text": "influence of new management on a business."
+      }
+    ],
+    "answer": "C",
+    "source": {
+      "document": "EPA test 2 with answers.pdf",
+      "page": 6,
+      "answerKeyPage": 15
+    }
+  },
+  {
+    "id": "city-guilds-2-12",
+    "paperId": "city-guilds-2",
+    "number": 12,
+    "topic": "Change Management",
+    "question": "A business case needs to be made when",
+    "options": [
+      {
+        "id": "A",
+        "text": "sales figures are not met"
+      },
+      {
+        "id": "B",
+        "text": "a department has relocated"
+      },
+      {
+        "id": "C",
+        "text": "an improvement is suggested"
+      },
+      {
+        "id": "D",
+        "text": "staff apply for a promotion"
+      }
+    ],
+    "answer": "C",
+    "source": {
+      "document": "EPA test 2 with answers.pdf",
+      "page": 6,
+      "answerKeyPage": 15
+    }
+  },
+  {
+    "id": "city-guilds-2-13",
+    "paperId": "city-guilds-2",
+    "number": 13,
+    "topic": "Change Management",
+    "question": "What is the best way for an organisation to introduce a new way of thinking?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Involve all staff"
+      },
+      {
+        "id": "B",
+        "text": "Increase training."
+      },
+      {
+        "id": "C",
+        "text": "Indicate compensation"
+      },
+      {
+        "id": "D",
+        "text": "Implement the change"
+      }
+    ],
+    "answer": "A",
+    "source": {
+      "document": "EPA test 2 with answers.pdf",
+      "page": 6,
+      "answerKeyPage": 15
+    }
+  },
+  {
+    "id": "city-guilds-2-14",
+    "paperId": "city-guilds-2",
+    "number": 14,
+    "topic": "Change Management",
+    "question": "What is the first action that should be taken when an organisation hits a major fall in revenue?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Assess the situation"
+      },
+      {
+        "id": "B",
+        "text": "Consider new products"
+      },
+      {
+        "id": "C",
+        "text": "Make staff redundant."
+      },
+      {
+        "id": "D",
+        "text": "Increase sales targets"
+      }
+    ],
+    "answer": "A",
+    "source": {
+      "document": "EPA test 2 with answers.pdf",
+      "page": 7,
+      "answerKeyPage": 15
+    }
+  },
+  {
+    "id": "city-guilds-2-15",
+    "paperId": "city-guilds-2",
+    "number": 15,
+    "topic": "Business Fundamentals",
+    "question": "Who is most likely to be affected by a change in the price of an organisation's shares?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Customers."
+      },
+      {
+        "id": "B",
+        "text": "Suppliers"
+      },
+      {
+        "id": "C",
+        "text": "Debtors"
+      },
+      {
+        "id": "D",
+        "text": "Investors"
+      }
+    ],
+    "answer": "D",
+    "source": {
+      "document": "EPA test 2 with answers.pdf",
+      "page": 7,
+      "answerKeyPage": 15
+    }
+  },
+  {
+    "id": "city-guilds-2-16",
+    "paperId": "city-guilds-2",
+    "number": 16,
+    "topic": "External Factors",
+    "question": "What is the most likely impact of having to work from home during the Covid 19 pandemic?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Increased paperwork."
+      },
+      {
+        "id": "B",
+        "text": "Fewer lunch breaks"
+      },
+      {
+        "id": "C",
+        "text": "Meetings held on-line"
+      },
+      {
+        "id": "D",
+        "text": "Tasks completed on time."
+      }
+    ],
+    "answer": "C",
+    "source": {
+      "document": "EPA test 2 with answers.pdf",
+      "page": 7,
+      "answerKeyPage": 15
+    }
+  },
+  {
+    "id": "city-guilds-2-17",
+    "paperId": "city-guilds-2",
+    "number": 17,
+    "topic": "The Organisation",
+    "question": "What needs to be addressed when new IT software is introduced into an office?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Room layout."
+      },
+      {
+        "id": "B",
+        "text": "Staff knowledge"
+      },
+      {
+        "id": "C",
+        "text": "Desk positioning."
+      },
+      {
+        "id": "D",
+        "text": "Document usage."
+      }
+    ],
+    "answer": "B",
+    "source": {
+      "document": "EPA test 2 with answers.pdf",
+      "page": 7,
+      "answerKeyPage": 15
+    }
+  },
+  {
+    "id": "city-guilds-2-18",
+    "paperId": "city-guilds-2",
+    "number": 18,
+    "topic": "Business Fundamentals",
+    "question": "Why is it important to bill customers in a timely manner?",
+    "options": [
+      {
+        "id": "A",
+        "text": "To increase sales."
+      },
+      {
+        "id": "B",
+        "text": "To assist cash flow."
+      },
+      {
+        "id": "C",
+        "text": "To please suppliers."
+      },
+      {
+        "id": "D",
+        "text": "To improve records."
+      }
+    ],
+    "answer": "B",
+    "source": {
+      "document": "EPA test 2 with answers.pdf",
+      "page": 7,
+      "answerKeyPage": 15
+    }
+  },
+  {
+    "id": "city-guilds-2-19",
+    "paperId": "city-guilds-2",
+    "number": 19,
+    "topic": "Business Fundamentals",
+    "question": "Why is it important to have a purchase requisition system?",
+    "options": [
+      {
+        "id": "A",
+        "text": "To allow invoicing."
+      },
+      {
+        "id": "B",
+        "text": "To reduce documentation"
+      },
+      {
+        "id": "C",
+        "text": "To deliver flexibility in timing."
+      },
+      {
+        "id": "D",
+        "text": "To ensure orders are dispatched."
+      }
+    ],
+    "answer": "A",
+    "source": {
+      "document": "EPA test 2 with answers.pdf",
+      "page": 7,
+      "answerKeyPage": 15
+    }
+  },
+  {
+    "id": "city-guilds-2-20",
+    "paperId": "city-guilds-2",
+    "number": 20,
+    "topic": "Business Fundamentals",
+    "question": "Procurement is the process of",
+    "options": [
+      {
+        "id": "A",
+        "text": "selling products"
+      },
+      {
+        "id": "B",
+        "text": "financial planning"
+      },
+      {
+        "id": "C",
+        "text": "account management"
+      },
+      {
+        "id": "D",
+        "text": "buying supplies."
+      }
+    ],
+    "answer": "D",
+    "source": {
+      "document": "EPA test 2 with answers.pdf",
+      "page": 8,
+      "answerKeyPage": 15
+    }
+  },
+  {
+    "id": "city-guilds-2-21",
+    "paperId": "city-guilds-2",
+    "number": 21,
+    "topic": "Business Fundamentals",
+    "question": "Why are costings important in an organisation?",
+    "options": [
+      {
+        "id": "A",
+        "text": "They inform budgets."
+      },
+      {
+        "id": "B",
+        "text": "They monitor progress"
+      },
+      {
+        "id": "C",
+        "text": "They account for purchases."
+      },
+      {
+        "id": "D",
+        "text": "They allow project completion."
+      }
+    ],
+    "answer": "A",
+    "source": {
+      "document": "EPA test 2 with answers.pdf",
+      "page": 8,
+      "answerKeyPage": 15
+    }
+  },
+  {
+    "id": "city-guilds-2-22",
+    "paperId": "city-guilds-2",
+    "number": 22,
+    "topic": "Legislation",
+    "question": "What does GDPR principally cover?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Information privacy."
+      },
+      {
+        "id": "B",
+        "text": "Information privilege."
+      },
+      {
+        "id": "C",
+        "text": "Information held indefinitely"
+      },
+      {
+        "id": "D",
+        "text": "Information for recruitment purposes."
+      }
+    ],
+    "answer": "A",
+    "source": {
+      "document": "EPA test 2 with answers.pdf",
+      "page": 8,
+      "answerKeyPage": 15
+    }
+  },
+  {
+    "id": "city-guilds-2-23",
+    "paperId": "city-guilds-2",
+    "number": 23,
+    "topic": "Legislation",
+    "question": "What is the right of the individual under data protection regulations?",
+    "options": [
+      {
+        "id": "A",
+        "text": "To be allowed free access to any data."
+      },
+      {
+        "id": "B",
+        "text": "The ability to ask for own data to be erased"
+      },
+      {
+        "id": "C",
+        "text": "To see all data under freedom of information."
+      },
+      {
+        "id": "D",
+        "text": "The ability to ask for data passwords to be improved"
+      }
+    ],
+    "answer": "B",
+    "source": {
+      "document": "EPA test 2 with answers.pdf",
+      "page": 8,
+      "answerKeyPage": 15
+    }
+  },
+  {
+    "id": "city-guilds-2-24",
+    "paperId": "city-guilds-2",
+    "number": 24,
+    "topic": "Legislation",
+    "question": "Why is it important for an administrator to keep all data secure?",
+    "options": [
+      {
+        "id": "A",
+        "text": "For ease of access."
+      },
+      {
+        "id": "B",
+        "text": "To reduce complaints"
+      },
+      {
+        "id": "C",
+        "text": "To avoid the need for shredding"
+      },
+      {
+        "id": "D",
+        "text": "For prevention of identity misuse."
+      }
+    ],
+    "answer": "D",
+    "source": {
+      "document": "EPA test 2 with answers.pdf",
+      "page": 8,
+      "answerKeyPage": 15
+    }
+  },
+  {
+    "id": "city-guilds-2-25",
+    "paperId": "city-guilds-2",
+    "number": 25,
+    "topic": "Legislation",
+    "question": "In an organisation, the responsibility of a Data Protection Officer includes the",
+    "options": [
+      {
+        "id": "A",
+        "text": "monitoring of all data processing"
+      },
+      {
+        "id": "B",
+        "text": "physical destruction of all data"
+      },
+      {
+        "id": "C",
+        "text": "setting of all data passwords"
+      },
+      {
+        "id": "D",
+        "text": "deciding who can access files"
+      }
+    ],
+    "answer": "A",
+    "source": {
+      "document": "EPA test 2 with answers.pdf",
+      "page": 8,
+      "answerKeyPage": 15
+    }
+  },
+  {
+    "id": "city-guilds-2-26",
+    "paperId": "city-guilds-2",
+    "number": 26,
+    "topic": "Legislation",
+    "question": "According to the Health and Safety (Display Screen Equipment) Regulations, an administrator using a VDU should",
+    "options": [
+      {
+        "id": "A",
+        "text": "have a 20-minute screen break every three hours"
+      },
+      {
+        "id": "B",
+        "text": "combine screen and non-screen based work"
+      },
+      {
+        "id": "C",
+        "text": "communicate by the telephone where possible"
+      },
+      {
+        "id": "D",
+        "text": "have a large screen to minimise eye strain"
+      }
+    ],
+    "answer": "B",
+    "source": {
+      "document": "EPA test 2 with answers.pdf",
+      "page": 9,
+      "answerKeyPage": 15
+    }
+  },
+  {
+    "id": "city-guilds-2-27",
+    "paperId": "city-guilds-2",
+    "number": 27,
+    "topic": "Legislation",
+    "question": "The 'Management of Health and Safety at Work Regulations' is aimed at",
+    "options": [
+      {
+        "id": "A",
+        "text": "leaders and owners"
+      },
+      {
+        "id": "B",
+        "text": "team supervisors"
+      },
+      {
+        "id": "C",
+        "text": "union and staff"
+      },
+      {
+        "id": "D",
+        "text": "administrators"
+      }
+    ],
+    "answer": "A",
+    "source": {
+      "document": "EPA test 2 with answers.pdf",
+      "page": 9,
+      "answerKeyPage": 15
+    }
+  },
+  {
+    "id": "city-guilds-2-28",
+    "paperId": "city-guilds-2",
+    "number": 28,
+    "topic": "Legislation",
+    "question": "What injuries are reportable under RIDDOR?",
+    "options": [
+      {
+        "id": "A",
+        "text": "All burns to the body."
+      },
+      {
+        "id": "B",
+        "text": "Finger fractures."
+      },
+      {
+        "id": "C",
+        "text": "Amputations."
+      },
+      {
+        "id": "D",
+        "text": "Toothache."
+      }
+    ],
+    "answer": "C",
+    "source": {
+      "document": "EPA test 2 with answers.pdf",
+      "page": 9,
+      "answerKeyPage": 15
+    }
+  },
+  {
+    "id": "city-guilds-2-29",
+    "paperId": "city-guilds-2",
+    "number": 29,
+    "topic": "Legislation",
+    "question": "Why is it important for an administrator to report any hazards?",
+    "options": [
+      {
+        "id": "A",
+        "text": "To enforce retraining"
+      },
+      {
+        "id": "B",
+        "text": "To apply disciplinary action"
+      },
+      {
+        "id": "C",
+        "text": "To adjust accident figures."
+      },
+      {
+        "id": "D",
+        "text": "To highlight potential dangers"
+      }
+    ],
+    "answer": "D",
+    "source": {
+      "document": "EPA test 2 with answers.pdf",
+      "page": 9,
+      "answerKeyPage": 15
+    }
+  },
+  {
+    "id": "city-guilds-2-30",
+    "paperId": "city-guilds-2",
+    "number": 30,
+    "topic": "Legislation",
+    "question": "The constant use of a keyboard is a hazard that may result in",
+    "options": [
+      {
+        "id": "A",
+        "text": "repetitive strain injury"
+      },
+      {
+        "id": "B",
+        "text": "excessive backache"
+      },
+      {
+        "id": "C",
+        "text": "chronic fatigue"
+      },
+      {
+        "id": "D",
+        "text": "eyesight strain."
+      }
+    ],
+    "answer": "A",
+    "source": {
+      "document": "EPA test 2 with answers.pdf",
+      "page": 9,
+      "answerKeyPage": 15
+    }
+  },
+  {
+    "id": "city-guilds-2-31",
+    "paperId": "city-guilds-2",
+    "number": 31,
+    "topic": "Legislation",
+    "question": "The main reason employers promote legislative and regulatory requirements is to",
+    "options": [
+      {
+        "id": "A",
+        "text": "safeguard employees"
+      },
+      {
+        "id": "B",
+        "text": "improve productivity"
+      },
+      {
+        "id": "C",
+        "text": "manage staffing"
+      },
+      {
+        "id": "D",
+        "text": "reduce costs."
+      }
+    ],
+    "answer": "A",
+    "source": {
+      "document": "EPA test 2 with answers.pdf",
+      "page": 9,
+      "answerKeyPage": 15
+    }
+  },
+  {
+    "id": "city-guilds-2-32",
+    "paperId": "city-guilds-2",
+    "number": 32,
+    "topic": "Stakeholders",
+    "question": "Which of the following are external customers?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Staff."
+      },
+      {
+        "id": "B",
+        "text": "Clients"
+      },
+      {
+        "id": "C",
+        "text": "Directors."
+      },
+      {
+        "id": "D",
+        "text": "Managers"
+      }
+    ],
+    "answer": "B",
+    "source": {
+      "document": "EPA test 2 with answers.pdf",
+      "page": 10,
+      "answerKeyPage": 15
+    }
+  },
+  {
+    "id": "city-guilds-2-33",
+    "paperId": "city-guilds-2",
+    "number": 33,
+    "topic": "Stakeholders",
+    "question": "What is the relationship of shareholders to an organisation?",
+    "options": [
+      {
+        "id": "A",
+        "text": "They manage change."
+      },
+      {
+        "id": "B",
+        "text": "They recruit directors."
+      },
+      {
+        "id": "C",
+        "text": "They influence the supply chain"
+      },
+      {
+        "id": "D",
+        "text": "They expect maximum profits."
+      }
+    ],
+    "answer": "D",
+    "source": {
+      "document": "EPA test 2 with answers.pdf",
+      "page": 10,
+      "answerKeyPage": 15
+    }
+  },
+  {
+    "id": "city-guilds-2-34",
+    "paperId": "city-guilds-2",
+    "number": 34,
+    "topic": "Stakeholders",
+    "question": "Two or more businesses working together on a commercial enterprise are known as",
+    "options": [
+      {
+        "id": "A",
+        "text": "co-operative organisations"
+      },
+      {
+        "id": "B",
+        "text": "charitable organisations"
+      },
+      {
+        "id": "C",
+        "text": "partner organisations"
+      },
+      {
+        "id": "D",
+        "text": "public organisations."
+      }
+    ],
+    "answer": "C",
+    "source": {
+      "document": "EPA test 2 with answers.pdf",
+      "page": 10,
+      "answerKeyPage": 15
+    }
+  },
+  {
+    "id": "city-guilds-2-35",
+    "paperId": "city-guilds-2",
+    "number": 35,
+    "topic": "The Organisation",
+    "question": "Which of the following is the most important influence on staff retention?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Issuing monthly newsletters"
+      },
+      {
+        "id": "B",
+        "text": "Setting performance targets"
+      },
+      {
+        "id": "C",
+        "text": "Listening and communicating"
+      },
+      {
+        "id": "D",
+        "text": "Discussing and managing budgets."
+      }
+    ],
+    "answer": "C",
+    "source": {
+      "document": "EPA test 2 with answers.pdf",
+      "page": 10,
+      "answerKeyPage": 15
+    }
+  },
+  {
+    "id": "city-guilds-2-36",
+    "paperId": "city-guilds-2",
+    "number": 36,
+    "topic": "Stakeholders",
+    "question": "What is a key principle of stakeholder management?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Encouraging independent working."
+      },
+      {
+        "id": "B",
+        "text": "Controlling diverse behaviours"
+      },
+      {
+        "id": "C",
+        "text": "Adopting processes"
+      },
+      {
+        "id": "D",
+        "text": "Recognising risks."
+      }
+    ],
+    "answer": "C",
+    "source": {
+      "document": "EPA test 2 with answers.pdf",
+      "page": 10,
+      "answerKeyPage": 15
+    }
+  },
+  {
+    "id": "city-guilds-2-37",
+    "paperId": "city-guilds-2",
+    "number": 37,
+    "topic": "Stakeholders",
+    "question": "The most important reason for managing staff conflict is to ensure",
+    "options": [
+      {
+        "id": "A",
+        "text": "targets are focused"
+      },
+      {
+        "id": "B",
+        "text": "impact is minimised"
+      },
+      {
+        "id": "C",
+        "text": "production increases"
+      },
+      {
+        "id": "D",
+        "text": "disciplinary process is fair."
+      }
+    ],
+    "answer": "B",
+    "source": {
+      "document": "EPA test 2 with answers.pdf",
+      "page": 10,
+      "answerKeyPage": 15
+    }
+  },
+  {
+    "id": "city-guilds-2-38",
+    "paperId": "city-guilds-2",
+    "number": 38,
+    "topic": "Stakeholders",
+    "question": "How will an administrator identify their most important stakeholders?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Deal with team members exclusively"
+      },
+      {
+        "id": "B",
+        "text": "React to external requests promptly."
+      },
+      {
+        "id": "C",
+        "text": "Classify them according to influence."
+      },
+      {
+        "id": "D",
+        "text": "Base actions on who they like best."
+      }
+    ],
+    "answer": "C",
+    "source": {
+      "document": "EPA test 2 with answers.pdf",
+      "page": 11,
+      "answerKeyPage": 15
+    }
+  },
+  {
+    "id": "city-guilds-2-39",
+    "paperId": "city-guilds-2",
+    "number": 39,
+    "topic": "Project Management",
+    "question": "Which of the following is a project risk?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A new IT system."
+      },
+      {
+        "id": "B",
+        "text": "An asset register."
+      },
+      {
+        "id": "C",
+        "text": "A defined deliverable"
+      },
+      {
+        "id": "D",
+        "text": "An experienced leader."
+      }
+    ],
+    "answer": "A",
+    "source": {
+      "document": "EPA test 2 with answers.pdf",
+      "page": 11,
+      "answerKeyPage": 15
+    }
+  },
+  {
+    "id": "city-guilds-2-40",
+    "paperId": "city-guilds-2",
+    "number": 40,
+    "topic": "Project Management",
+    "question": "Why is it important to have milestones when working on a project?",
+    "options": [
+      {
+        "id": "A",
+        "text": "To advertise successful outcomes"
+      },
+      {
+        "id": "B",
+        "text": "To mark specific points for checks."
+      },
+      {
+        "id": "C",
+        "text": "To overlook achievements."
+      },
+      {
+        "id": "D",
+        "text": "To comply with legislation"
+      }
+    ],
+    "answer": "B",
+    "source": {
+      "document": "EPA test 2 with answers.pdf",
+      "page": 11,
+      "answerKeyPage": 15
+    }
+  },
+  {
+    "id": "city-guilds-2-41",
+    "paperId": "city-guilds-2",
+    "number": 41,
+    "topic": "Project Management",
+    "question": "What is the main reason for having a change log in a project?",
+    "options": [
+      {
+        "id": "A",
+        "text": "To track modifications"
+      },
+      {
+        "id": "B",
+        "text": "To minimise problems"
+      },
+      {
+        "id": "C",
+        "text": "To manage requests"
+      },
+      {
+        "id": "D",
+        "text": "To trail alterations"
+      }
+    ],
+    "answer": "A",
+    "source": {
+      "document": "EPA test 2 with answers.pdf",
+      "page": 11,
+      "answerKeyPage": 15
+    }
+  },
+  {
+    "id": "city-guilds-2-42",
+    "paperId": "city-guilds-2",
+    "number": 42,
+    "topic": "Project Management",
+    "question": "A GANTT chart is a useful tool in project management because it",
+    "options": [
+      {
+        "id": "A",
+        "text": "visually displays key deadlines"
+      },
+      {
+        "id": "B",
+        "text": "addresses problem areas"
+      },
+      {
+        "id": "C",
+        "text": "is held electronically"
+      },
+      {
+        "id": "D",
+        "text": "constrains costs."
+      }
+    ],
+    "answer": "A",
+    "source": {
+      "document": "EPA test 2 with answers.pdf",
+      "page": 11,
+      "answerKeyPage": 15
+    }
+  },
+  {
+    "id": "city-guilds-2-43",
+    "paperId": "city-guilds-2",
+    "number": 43,
+    "topic": "Project Management",
+    "question": "What constitutes a project?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A plan broken into different actions"
+      },
+      {
+        "id": "B",
+        "text": "An activity with deliverables."
+      },
+      {
+        "id": "C",
+        "text": "A sponsored activity."
+      },
+      {
+        "id": "D",
+        "text": "An action plan"
+      }
+    ],
+    "answer": "B",
+    "source": {
+      "document": "EPA test 2 with answers.pdf",
+      "page": 11,
+      "answerKeyPage": 15
+    }
+  },
+  {
+    "id": "city-guilds-2-44",
+    "paperId": "city-guilds-2",
+    "number": 44,
+    "topic": "Project Management",
+    "question": "The most important reason for having a schedule of work in project management is to",
+    "options": [
+      {
+        "id": "A",
+        "text": "encourage motivation"
+      },
+      {
+        "id": "B",
+        "text": "achieve timescales"
+      },
+      {
+        "id": "C",
+        "text": "issue budgets"
+      },
+      {
+        "id": "D",
+        "text": "evaluate outcomes."
+      }
+    ],
+    "answer": "B",
+    "source": {
+      "document": "EPA test 2 with answers.pdf",
+      "page": 11,
+      "answerKeyPage": 15
+    }
+  },
+  {
+    "id": "city-guilds-2-45",
+    "paperId": "city-guilds-2",
+    "number": 45,
+    "topic": "Project Management",
+    "question": "An effective resource in project management is",
+    "options": [
+      {
+        "id": "A",
+        "text": "overall vision"
+      },
+      {
+        "id": "B",
+        "text": "SMART objectives"
+      },
+      {
+        "id": "C",
+        "text": "staff expertise"
+      },
+      {
+        "id": "D",
+        "text": "evaluation reporting"
+      }
+    ],
+    "answer": "C",
+    "source": {
+      "document": "EPA test 2 with answers.pdf",
+      "page": 12,
+      "answerKeyPage": 15
+    }
+  },
+  {
+    "id": "city-guilds-2-46",
+    "paperId": "city-guilds-2",
+    "number": 46,
+    "topic": "Project Management",
+    "question": "It is important to work to a set budget when running a project to ensure",
+    "options": [
+      {
+        "id": "A",
+        "text": "profit is increased"
+      },
+      {
+        "id": "B",
+        "text": "financial capacity is managed"
+      },
+      {
+        "id": "C",
+        "text": "quality is maintained"
+      },
+      {
+        "id": "D",
+        "text": "completion is timely."
+      }
+    ],
+    "answer": "B",
+    "source": {
+      "document": "EPA test 2 with answers.pdf",
+      "page": 12,
+      "answerKeyPage": 15
+    }
+  },
+  {
+    "id": "city-guilds-2-47",
+    "paperId": "city-guilds-2",
+    "number": 47,
+    "topic": "Project Management",
+    "question": "Why are contractors an important additional resource in project management?",
+    "options": [
+      {
+        "id": "A",
+        "text": "To utilise specialist skills"
+      },
+      {
+        "id": "B",
+        "text": "To meet diversity regulations."
+      },
+      {
+        "id": "C",
+        "text": "To increase staff motivation."
+      },
+      {
+        "id": "D",
+        "text": "To reduce supply overheads."
+      }
+    ],
+    "answer": "A",
+    "source": {
+      "document": "EPA test 2 with answers.pdf",
+      "page": 12,
+      "answerKeyPage": 15
+    }
+  },
+  {
+    "id": "city-guilds-2-48",
+    "paperId": "city-guilds-2",
+    "number": 48,
+    "topic": "Project Management",
+    "question": "What does a project depend on for a successful outcome?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Private ownership"
+      },
+      {
+        "id": "B",
+        "text": "Strong leadership."
+      },
+      {
+        "id": "C",
+        "text": "Consistent targets"
+      },
+      {
+        "id": "D",
+        "text": "Staff turnover."
+      }
+    ],
+    "answer": "B",
+    "source": {
+      "document": "EPA test 2 with answers.pdf",
+      "page": 12,
+      "answerKeyPage": 15
+    }
+  },
+  {
+    "id": "city-guilds-2-49",
+    "paperId": "city-guilds-2",
+    "number": 49,
+    "topic": "Project Management",
+    "question": "What is the most important reason to include contingency planning in a project?",
+    "options": [
+      {
+        "id": "A",
+        "text": "To allow for unexpected issues."
+      },
+      {
+        "id": "B",
+        "text": "To set new aims and objectives"
+      },
+      {
+        "id": "C",
+        "text": "To be able to apportion blame."
+      },
+      {
+        "id": "D",
+        "text": "To allocate new budgets."
+      }
+    ],
+    "answer": "A",
+    "source": {
+      "document": "EPA test 2 with answers.pdf",
+      "page": 12,
+      "answerKeyPage": 15
+    }
+  },
+  {
+    "id": "city-guilds-2-50",
+    "paperId": "city-guilds-2",
+    "number": 50,
+    "topic": "Project Management",
+    "question": "What are the potential consequences of a lack of commitment in project management?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Retraining."
+      },
+      {
+        "id": "B",
+        "text": "Reduced risk."
+      },
+      {
+        "id": "C",
+        "text": "Unused materials."
+      },
+      {
+        "id": "D",
+        "text": "Unclear objectives"
+      }
+    ],
+    "answer": "D",
+    "source": {
+      "document": "EPA test 2 with answers.pdf",
+      "page": 12,
+      "answerKeyPage": 15
+    }
+  }
+]
